@@ -1,6 +1,6 @@
 ---
-title: Második szabály
+title: szabályokról 2
 lang: hu-HU
 ---
-# KETA második szabálya
-A második szabály taglalása
+# Szabály 2
+Szabályok második oldal

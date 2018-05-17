@@ -1,6 +1,6 @@
 ---
-title: Első szabály
+title: szabályokról 1
 lang: hu-HU
 ---
-# KETA első szabálya
-Az első szabály kifejtése...
+# Szabály 1
+Szabályok első oldal

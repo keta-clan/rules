@@ -1,7 +1,7 @@
 ---
-title: A KETA klán
+title: Klán
 lang: hu-HU
 ---
-# KETA történet
+# KETA
 
-Valami leírás
+A klán kezdő oldal

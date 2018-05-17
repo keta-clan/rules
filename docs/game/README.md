@@ -1,5 +1,6 @@
 ---
-title: A játék
+title: World of Tanks
 lang: hu-HU
 ---
-# WoT történet
+# WoT
+WoT kezdő oldal
