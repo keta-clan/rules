@@ -1,2 +1,0 @@
-# KETA
-Helló világ!
