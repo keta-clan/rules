@@ -2,4 +2,8 @@
 title: Üdvözlet!
 lang: hu-HU
 ---
-# Helló KETAk!
+# Üdvözöl a KETA klán!
+
+::: danger motónk:
+Nem győzni jöttünk, hanem pusztítani!
+:::

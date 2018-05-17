@@ -1,6 +1,9 @@
 module.exports = {
-    title: 'KETA klán',
-    description: 'KETA szabályzat',
+    title: 'KETA',
+    description: 'KETA World of Tanks klán',
+    head: [
+      ['link', { rel: 'icon', href: `/favicon-16x16.png` }]
+    ],
     themeConfig: {
       nav: [
         { text: 'KETA',
