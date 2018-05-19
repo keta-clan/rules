@@ -6,34 +6,33 @@ module.exports = {
     ],
     themeConfig: {
       sidebar: {
-        // sidebar for pages under /clan/
-        '/clan/': [
-          '',
-          'newcomer'
+        '/keta/': [
+          '',     /* /keta/ */
+          'one',  /* /keta/one.html */
+          'two'   /* /keta/two.html */
         ],
-        // sidebar for pages under /game/
-        '/game/': [
-          '',
-          'elso',
-          'masodik'
+  
+        '/discord/': [
+          '',      /* /bar/ */
+          'one', /* /discord/one.html */
+          'two'   /* /discord/two.html */
         ],
-        // sidebar for pages under /duide/
-        '/guide/': [
-          '',
-          'first',
-          'second'
+  
+        // fallback
+        '/': [
+          '',        /* / */
+          'contact', /* /contact.html */
+          'about'    /* /about.html */
         ]
       },
       nav: [
-        { text: 'KETA',
-          items: [
-            { text: 'A klánról', link: '/clan/' },
-            { text: 'A játékról', link: '/game/' }
-          ]
-        },
-        { text: 'Szabályok', link: '/guide/' },
-        { text: 'Clan | Wargaming.net', link: 'https://eu.wargaming.net/clans/wot/500065045/' },
-      ]
+        { text: 'Klán', link: '/keta/' },
+        { text: 'Discord', link: '/discord/' },
+      ],
+      markdown: {
+        config: md => {
+          md.use(require('markdown-it-toc'))
+        }
+      }
     }
-  
   }
