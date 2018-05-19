@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://eu.wargaming.net/clans/media/clans/emblems/cl_045/500065045/emblem_195x195.png
+heroImage: /logo.png
 actionText: Eligazítás →
 actionLink: /keta/
 features:
