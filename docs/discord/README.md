@@ -16,7 +16,7 @@ Szabad fordításban:
 Minden az egyben hang és szöveges csevegő program játékosoknak, ami ingyenes, biztonságos és működik minden platformon.
 ```
 
-Fejlesztése 2015-ben kezdődött azzal a céllal. hogy egy alacsony erőforrás igényű, biztonságos és ingyenesen használható alkalmazást hozzanak létre, ami kiküszöböli a TeamSpeak és Skype hiányosságait. A kitűzött célt el is érte, ez az alkalmazás nem egy sokadik TeamSpeak klón, több annál. A Discord egy játékos központú kommunikációs alkalmazás.
+Fejlesztése 2015-ben kezdődött azzal a céllal, hogy egy alacsony erőforrás igényű, biztonságos és ingyenesen használható alkalmazást hozzanak létre, ami kiküszöböli a TeamSpeak és Skype hiányosságait. A kitűzött célt el is érte, ez az alkalmazás nem egy sokadik TeamSpeak klón, több annál. A Discord egy játékos központú kommunikációs alkalmazás.
 
 Weblapjukon egy részletes [táblázatban](https://discordapp.com/features) vethetjük össze a többi nészerű platformmal. 
 
@@ -33,9 +33,9 @@ Azért mert a Discord tényleg jó. Egy nagyon rövid lista a kedvencekről:
 * Könnyen kezelhető és adminisztrálható
 * Tényleg ingyenes és tényleg működik, stabilan évek óta
 
-Mi ezek miatt szeretjük igazán, persze még rengeted funkció van.
+Mi ezek miatt szeretjük igazán, persze még rengeteg funkció van.
 
-Vannak hiányosságok is a legfájóbb, hogy a beépített Overlay funkció nem működik kifogástalanul. Remélem hamarosan javítják.
+Vannak hiányosságok is persze. A legfájóbb, hogy a beépített Overlay funkció nem működik kifogástalanul. Remélem hamarosan javítják.
 
 ## Kik használják még?
 
