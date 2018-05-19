@@ -29,7 +29,7 @@ Igen. A Discord egy könnyen használható, ingyenes multiplatform kommunikáci�
 Azért mert a Discord tényleg jó. Egy nagyon rövid lista a kedvencekről:
 
 * Saját szerver vagy akár szerverek, nem csak egy szoba egy nyilvános TS szerveren
-* Igazi chat akár fájlokat is tölthetsz fel, üzenet előzmények, nem maradsz le semmiről
+* Igazi chat, akár fájlokat is tölthetsz fel, üzenet előzmények, nem maradsz le semmiről
 * Könnyen kezelhető és adminisztrálható
 * Tényleg ingyenes és tényleg működik, stabilan évek óta
 
@@ -39,12 +39,12 @@ Vannak hiányosságok is persze. A legfájóbb, hogy a beépített Overlay funkc
 
 ## Kik használják még?
 
-Egyre többen, néhány nyilvános Discord szerver World Of Tanks témában:
+Egyre többen! Néhány nyilvános Discord szerver World of Tanks témában:
 
 * **WotInfo** (magyar): [https://discord.gg/qx4BVVb](https://discord.gg/qx4BVVb)
 * **World of Tanks** (angol): [https://discord.gg/world-of-tanks](https://discord.gg/world-of-tanks)
 
-Persze mi is használjuk, ha nincs hivatalos KETA klán meghívód, akkor is benézhetsz hozzánk! A vendégszobában tudsz nekünk üzenetet is hagyni, ha csatlakozni szeretnél.
+Persze mi is használjuk. Ha nincs hivatalos KETA klán meghívód, akkor is benézhetsz hozzánk! A vendégszobában tudsz nekünk üzenetet is hagyni, ha csatlakozni szeretnél.
 
 Remélem mihamarabb találkozunk!
 * **[KETA]** (magyar, ezek mi vagyunk ;) ) [https://discord.gg/7MZBtXB](https://discord.gg/7MZBtXB)
