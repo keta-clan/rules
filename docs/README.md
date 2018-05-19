@@ -10,12 +10,6 @@ features:
   details: Okoljuk közösen a meccsméking rendszert az elbukott csatákért. :)
 - title: Harmadszor pedig
   details: Azért csak szórakozzunk.
-footer:  KETA | World of Tanks klán | Alapítva 2015-ben
+footer:  'KETA | Alapítva: 2015-ben'
 navbar: true
 ---
-
-::: tip path:
-{{$page.path}}
-:::
-
-[Rólunk](/about.html) | [Kapcsolat](/contact.html)

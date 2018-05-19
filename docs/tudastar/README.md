@@ -1,6 +1,6 @@
 ---
 lang: hu-HU
-title: A Discordról
+title: Tudástár
 ---
 
 # Ismertető
