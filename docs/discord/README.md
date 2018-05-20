@@ -32,7 +32,7 @@ Azért mert a Discord tényleg jó. Egy nagyon rövid lista a kedvencekről:
 
 Mi ezek miatt szeretjük igazán, persze még rengeteg funkció van.
 
-Vannak hiányosságok is. A legfájóbb, hogy a beépített Overlay funkció nem működik kifogástalanul. Remélem hamarosan javítják.
+Vannak hiányosságok is. A legfájóbb, hogy a beépített Overlay funkció World of Tanks alatt nem működik kifogástalanul. A fejlesztés folyamatos, remélem mihamarabb ez is sorra kerül.
 
 ## Kik használják még?
 
@@ -49,7 +49,8 @@ Remélem mihamarabb találkozunk!
 
 ## Hol kezdjem, ha használni akarom?
 
-Töltsd le az alkalmazást a hivatalos weboldalról:
-[https://discordapp.com/download](https://discordapp.com/download)
+Discord alatt minden a meghívó linkkel kezdődik. Kattints a meghívónkra és vágj bele: [https://discord.gg/7MZBtXB](https://discord.gg/7MZBtXB)
 
-Remek, a nehezén már túl is vagy. Ha mégis segítségre van szükséged a telepítéshez, lapozz tovább!
+Vagy töltsd le az alkalmazást a hivatalos weboldalról: [https://discordapp.com/download](https://discordapp.com/download)
+
+Remek, a nehezén már túl is vagy. A regisztráció és a telepítés nagyon egyszerű, amennyiben egy kis segítségre van szükséged csak lapozz tovább!
