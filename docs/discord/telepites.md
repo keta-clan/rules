@@ -2,7 +2,7 @@
 lang: hu-HU
 ---
 
-# Telepítése
+# Telepítés
 
 Elit enim officia ad culpa sit sit culpa nostrud ut quis. Aliqua nisi dolor quis aliqua voluptate minim consectetur. Cupidatat in nisi amet proident. Nulla anim tempor sint exercitation reprehenderit proident voluptate labore tempor. Id commodo laborum laboris ipsum non non mollit fugiat proident.
 

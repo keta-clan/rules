@@ -8,13 +8,10 @@ title: A Discordról
 ## Mi az a Discord?
 
 A legrövidebb választ a Discrod weboldalán találjuk:
-```
-All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.
-```
-Szabad fordításban:
-```
-Minden az egyben hang és szöveges csevegő program játékosoknak, ami ingyenes, biztonságos és működik minden platformon.
-```
+>All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.
+
+Magyarra így fordították:
+>A Discord az egy minden-az-egyben beszélgetős és üzenetváltási szolgáltatás gamereknek ingyenesen, biztonságosan ráadásul számítógépre és telefonra is.
 
 Fejlesztése 2015-ben kezdődött azzal a céllal, hogy egy alacsony erőforrás igényű, biztonságos és ingyenesen használható alkalmazást hozzanak létre, ami kiküszöböli a TeamSpeak és Skype hiányosságait. A kitűzött célt el is érte, ez az alkalmazás nem egy sokadik TeamSpeak klón, több annál. A Discord egy játékos központú kommunikációs alkalmazás.
 
@@ -35,7 +32,7 @@ Azért mert a Discord tényleg jó. Egy nagyon rövid lista a kedvencekről:
 
 Mi ezek miatt szeretjük igazán, persze még rengeteg funkció van.
 
-Vannak hiányosságok is persze. A legfájóbb, hogy a beépített Overlay funkció nem működik kifogástalanul. Remélem hamarosan javítják.
+Vannak hiányosságok is. A legfájóbb, hogy a beépített Overlay funkció nem működik kifogástalanul. Remélem hamarosan javítják.
 
 ## Kik használják még?
 
@@ -44,7 +41,7 @@ Egyre többen! Néhány nyilvános Discord szerver World of Tanks témában:
 * **WotInfo** (magyar): [https://discord.gg/qx4BVVb](https://discord.gg/qx4BVVb)
 * **World of Tanks** (angol): [https://discord.gg/world-of-tanks](https://discord.gg/world-of-tanks)
 
-Persze mi is használjuk. Ha nincs hivatalos KETA klán meghívód, akkor is benézhetsz hozzánk! A vendégszobában tudsz nekünk üzenetet is hagyni, ha csatlakozni szeretnél.
+Mi is használjuk. Ha nincs hivatalos KETA klán meghívód, akkor is benézhetsz hozzánk! A vendégszobában tudsz nekünk üzenetet is hagyni, ha csatlakozni szeretnél.
 
 Remélem mihamarabb találkozunk!
 * **[KETA]** (magyar, ezek mi vagyunk ;) ) [https://discord.gg/7MZBtXB](https://discord.gg/7MZBtXB)
