@@ -15,11 +15,8 @@ yarn docs:dev
 ``` md
 <YoutubeVideo :videoId="'your-videos-id'"></YoutubeVideo>
 ```
-**Examlple**
-
- The video you want to embed has the url:
- https://www.youtube.com/watch?v=82kUjM0A-oE
- 
+#### Examlple
+ The video you want to embed has the url: `https://www.youtube.com/watch?v=82kUjM0A-oE`
  You must add the following line to the markdown file:
  
  ```
