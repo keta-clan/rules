@@ -8,9 +8,9 @@ lang: hu-HU
 >Nem győzni jöttünk, hanem pusztítani!
 
 ## Mi az a KETA?
-Igen, a slangben olyan ember, aki valamit képtelen megcsinálni, szerencsétlen, kétbalkezes. A [hogymondom.hu](https://hogymondom.hu/showslang.php?slang=keta) írja ezt róla, de ha a [World of Tanks](https://worldoftanks.eu/) oldalán keresed, akkor a [KETA](https://eu.wargaming.net/clans/wot/500065045/) egy klán. Ez az oldal ennek a klánnnak az oldala.
+Igen, a szlengben olyan ember, aki valamit képtelen megcsinálni, szerencsétlen, kétbalkezes. A [hogymondom.hu](https://hogymondom.hu/showslang.php?slang=keta) írja ezt róla, de ha a [World of Tanks](https://worldoftanks.eu/) oldalán keresed, akkor a [KETA](https://eu.wargaming.net/clans/wot/500065045/) egy klán. Ez az oldal, ennek a klánnnak a weboldala.
 
-Igen, a név választás nem véletlen. Tudjuk, hogy nem mi vagyunk a legjobb játékosok és hogy van mit tanulnunk még. Aki azt gondolja neki már nincs hova fejlődni, fussa át a [Dunning-Kruger-hatás](https://hu.wikipedia.org/wiki/Dunning%E2%80%93Kruger-hat%C3%A1s) rövid leírását. Aztán gondolja át újra. ;)
+Igen, a névválasztás nem véletlen. Tudjuk, hogy nem mi vagyunk a legjobb játékosok és hogy van mit tanulnunk még. Aki azt gondolja neki már nincs hova fejlődni, fussa át a [Dunning-Kruger-hatás](https://hu.wikipedia.org/wiki/Dunning%E2%80%93Kruger-hat%C3%A1s) rövid leírását! Aztán gondolja át újra. ;)
 
 ## Toborzó szöveg
 
@@ -19,13 +19,14 @@ De leginkább az zavar, hogy ők mind a **Te csapatodban** vannak? Lépj be ink�
 
 ## A klán célja
 
-Egy olyan stabil közösség felépítse, hogy az erőd és csapat csaták mindennaposak lehessenek. Te is részese lehetsz ennek, ha szeretnél.
+Egy olyan stabil közösség felépítse, hogy az *erőd* és *csapat csaták* mindennaposak lehessenek. Te is részese lehetsz ennek, ha szeretnél.
 
-Kezdő vagy és nem is érted miről beszélek, de szeretnél tanulni és rendszeresen játszol, akkor is köztünk a helyed!
+Kezdő vagy és nem is érted miről beszélek, de szeretnél tanulni és rendszeresen játszol? Akkor is köztünk a helyed!
 
 ## Jelentkezni szeretnék!
 
-Már nagyon várunk, jelentkezni tudsz náluk a játékon belül:
+Már nagyon várunk.
+Jelentkezni tudsz náluk a játékon belül:
 
 * pnxkiller
 * paliz77
@@ -38,6 +39,7 @@ De a legegyszerűbb, ha felkeresed a Discord szerverünket és ott írsz valamel
 
 A mottót fiatal korunk meghatározó játék élményéből kölcsönöztük. Illik a játékhoz. Sokszor kell vele azonosulni, ha már a nyertes csaták nem jönnek össze.
 
-A játék pedig nem más mint a leghíresebb magyar szerepjáték a M.A.G.U.S. Köszönjük alkotóinak azt a rengeteg önfeledt órát amit [Ynev](https://hu.wikipedia.org/wiki/M.A.G.U.S.) világán tölthettünk. Talán nem bánják, ha a [Kyr Pusztítók](https://www.kalandozok.hu/magus/atlantisz/jatszhatokasztok/harcos/harcos/kyrpusztito(taishu)atlantisz.pdf) jelmondata itt is tovább él. 
+A játék pedig nem más, mint a leghíresebb magyar szerepjáték a **M.A.G.U.S.**
+Köszönjük alkotóinak azt a rengeteg önfeledt órát amit [Ynev](https://hu.wikipedia.org/wiki/M.A.G.U.S.) világán tölthettünk. Talán nem bánják, ha a [Kyr Pusztítók](https://www.kalandozok.hu/magus/atlantisz/jatszhatokasztok/harcos/harcos/kyrpusztito(taishu)atlantisz.pdf) jelmondata itt is tovább él. 
 
-*Kyria örök, míg Pusztítók csatáznak!*
+>Kyria örök, míg Pusztítók csatáznak!
