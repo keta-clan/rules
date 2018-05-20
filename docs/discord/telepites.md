@@ -5,7 +5,7 @@ title: Telepítése
 
 # A Discord telepítése
 
-A telepítés a legtöbb esetben akkor indul, amikor az ember kap egy linket valakitől (esetleg talál egyet egy weblapon) és rákattint (*Kockák a böngésző címsorába is másolhatják, de mi kattintsunk had dolgozzanak a programok*).
+A telepítés a legtöbb esetben akkor indul, amikor az ember kap egy linket valakitől (esetleg talál egyet egy weblapon) és rákattint (*Kockák a böngésző címsorába is másolhatják, de mi kattintsunk, had dolgozzanak a programok*).
 
 ## A meghívó link
 
