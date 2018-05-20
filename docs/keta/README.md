@@ -3,10 +3,29 @@ title: '[KETA]'
 lang: hu-HU
 ---
 
-# Ismertető
+# Kezdő Tank Alakulat
 
-Aliquip ipsum non irure in magna ipsum amet Lorem consectetur aliquip. Aliqua do elit officia occaecat irure est velit velit. Officia cupidatat nulla in aliquip ullamco cupidatat. Nostrud officia consectetur eiusmod magna minim excepteur veniam sint. Ex Lorem commodo velit velit ipsum veniam.
+>Nem győzni jöttünk, hanem pusztítani!
 
-Do consectetur incididunt mollit exercitation adipisicing veniam laboris veniam nostrud nostrud occaecat. Cupidatat fugiat tempor cillum voluptate ipsum dolor. Esse tempor esse aliquip irure reprehenderit eiusmod cupidatat est proident eu nostrud ullamco laboris eiusmod. In et minim sunt eu consectetur non non nisi voluptate nostrud esse laboris. Minim commodo sit Lorem aliquip mollit ad enim pariatur duis pariatur laboris exercitation.
+## Mi az a KETA?
+Igen, a slangben olyan ember, aki valamit képtelen megcsinálni, szerencsétlen, kétbalkezes. A [hogymondom.hu](https://hogymondom.hu/showslang.php?slang=keta) írja ezt róla, de ha a [World of Tanks](https://worldoftanks.eu/) oldalán keresed, akkor a [KETA](https://eu.wargaming.net/clans/wot/500065045/) egy klán. Ez az oldal ennek a klánnnak az oldala.
 
-Anim cillum nisi do in in mollit aliquip laborum sit irure enim duis proident. Cillum elit eiusmod ex amet elit sunt amet nisi ipsum non. Quis id esse excepteur velit minim culpa laboris Lorem exercitation non nostrud. Nulla cupidatat dolor sint commodo do esse exercitation in. Minim deserunt minim culpa tempor velit sit cillum eu duis commodo incididunt ad. Aliqua mollit proident non do laboris voluptate.
+Igen, a név választás nem véletlen. Tudjuk, hogy nem mi vagyunk a legjobb játékosok és hogy van mit tanulnunk még. Aki azt gondolja neki már nincs hova fejlődni, fussa át a [Dunning-Kruger-hatás](https://hu.wikipedia.org/wiki/Dunning%E2%80%93Kruger-hat%C3%A1s) rövid leírását. Aztán gondolja át újra. :)
+
+Már nem vagy kezdő, de eleged van a szabad csatákból? Téged is zavar a minimap-ot még a garázsból is ping-elő harctéri géniusz? A Löwe, aki már rég ki is kapcsolta a téképet, mert zavarta a nézelődésben. A két szinttel magasabb közepes, akinek a harctéri taktika az arany lőszer, de így sem jut sokra? A sarokban álló könnyű harckocsik és a felderítő lövegek?
+De leginkább az zavar, hogy ők mind a Te csapatodban vannak? Lépj be inkább közénk!
+
+A Kezdő Tank Alakulat célja egy stabil közösség felépítse, hogy az erőd és csapat csaták mindennaposak lehessenek. Te is részese lehetsz ennek, ha szeretnél.
+
+Kezdő vagy és nem is érted miről beszélek, de szeretnél tanulni és rendszeresen játszol, akkor is köztünk a helyed!
+
+*Jelentkezhetsz náluk:*
+pnxkiller
+paliz77
+
+*Lépj velünk kapcsolatba Discordon:*
+"https://discord.gg/7MZBtXB":https://discord.gg/7MZBtXB
+
+Köszönjük a mottót "Ynev":https://hu.wikipedia.org/wiki/M.A.G.U.S. alkotóinak!
+
+*Kyria örök, míg Pusztítók csatáznak!*

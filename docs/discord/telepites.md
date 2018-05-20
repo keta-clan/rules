@@ -13,7 +13,9 @@ Kattintsunk tehát a meghívó linkre [https://discord.gg/7MZBtXB](https://disco
 
 [![meghívás](/images/discord/invite.png)](/images/discord/invite.png)
 
-*Láthatjuk, hogy **pnxkiller** hívott meg minket a **[KETA]** szerverére.*
+::: danger Tipp
+Láthatjuk, hogy **pnxkiller** hívott meg minket a **[KETA]** szerverére.
+:::
 
 Ha már korábban regisztráltál a Discord-ra, akkor kattints a **Már van fiókod?** linkre és a következő lépések rád ne vonatkoznak. De ha még nincs fiókod kezdődhet a regisztráció! Pofon egyszerű lesz.
 
@@ -44,7 +46,9 @@ A letöltés végeztével indítsuk el a telepítő programot. Egyszerüen katti
 
 [![regisztráció](/images/discord/install.png)](/images/discord/install.png)
 
-*Ha ez nem látszik keressük meg a DiscordSetup.exe programot a Letöltések mappában és indítsuk el.*
+::: danger Tipp
+Ha ez nem látszik keressük meg a `DiscordSetup.exe` programot a Letöltések mappában és indítsuk el.
+:::
 
 ### Telepítés
 A telepítés annyira egyszerű, hogy ennél egyszerűbb már nem is lehetne. A program az ég világon semmit nem kérdez tőlünk. Pár másodperc alatt telepedik a számítógépre majd elindul. Az imént létrehozott felhasználó nevében indul el a program és ha ezzel egyetértünk más dolgunk nincs mint a **Folytatás** gombra kattintani.
@@ -63,7 +67,9 @@ A bal oldali vékony sávban találjuk a szerverek a listáját. A szerver ikonj
 
 [![regisztráció](/images/discord/server.png)](/images/discord/server.png)
 
-*Látszik, hogy nem erősítettem meg az e-mail címem, ezt majd pótolni kell.*
+::: danger Tipp
+Látszik, hogy nem erősítettem meg az e-mail címem, ezt majd pótolni kell.
+:::
 
 A felületen látszódnak a szerver hang és szöveg csatornái. A kiválasztott szöveg csatorna chat felülete és a csatorna felhasználóinak listája.
 
