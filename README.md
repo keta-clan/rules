@@ -21,3 +21,20 @@ The sctipt generates the static site and push into the repositiry ([https://gith
 ./delpoy.sh
 ```
 For detailed instructions: [VuePress documentation](https://vuepress.vuejs.org/)
+
+# KETA specific
+
+To embed YouTube videos:
+
+``` md
+<YoutubeVideo :videoId="'your-videos-id'"></YoutubeVideo>
+```
+Examlple: 
+ The video you want to embed has the url:
+ https://www.youtube.com/watch?v=82kUjM0A-oE
+ 
+ You must add the following line to the markdown file:
+ 
+ ```
+<YoutubeVideo :videoId="'82kUjM0A-oE'"></YoutubeVideo>
+```
