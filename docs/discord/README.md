@@ -8,13 +8,10 @@ title: A Discordról
 ## Mi az a Discord?
 
 A legrövidebb választ a Discrod weboldalán találjuk:
-```
-All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.
-```
-Szabad fordításban:
-```
-Minden az egyben hang és szöveges csevegő program játékosoknak, ami ingyenes, biztonságos és működik minden platformon.
-```
+>All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.
+
+Magyarra így fordították:
+>A Discord az egy minden-az-egyben beszélgetős és üzenetváltási szolgáltatás gamereknek ingyenesen, biztonságosan ráadásul számítógépre és telefonra is.
 
 Fejlesztése 2015-ben kezdődött azzal a céllal, hogy egy alacsony erőforrás igényű, biztonságos és ingyenesen használható alkalmazást hozzanak létre, ami kiküszöböli a TeamSpeak és Skype hiányosságait. A kitűzött célt el is érte, ez az alkalmazás nem egy sokadik TeamSpeak klón, több annál. A Discord egy játékos központú kommunikációs alkalmazás.
 
