@@ -27,7 +27,7 @@ A regisztráció a felhasználónév megadásával kezdődik. Azt jó tudni, hog
 
 [![regisztráció](/images/discord/registration.png)](/images/discord/registration.png)
 
-A felhasználónév véglegesítéséhez adjuk meg e-mail címunket és új biztonságos, könnyen megjegyezhető jelszavunkat (*Tudom, hogy mindenki a régi egyszerű jelszavát fogja megadni* :wink:). A **Fiók lefoglalás** gombbal léphetünk is tovább.
+A felhasználónév véglegesítéséhez adjuk meg e-mail címunket és új biztonságos, könnyen megjegyezhető jelszavunkat (*Tudom, hogy mindenki a régi, egyszerű jelszavát fogja megadni* :wink:). A **Fiók lefoglalás** gombbal léphetünk is tovább.
 
 [![regisztráció](/images/discord/registration_confirm.png)](/images/discord/registration_confirm.png)
 
