@@ -35,7 +35,7 @@ Azért mert a Discord tényleg jó. Egy nagyon rövid lista a kedvencekről:
 
 Mi ezek miatt szeretjük igazán, persze még rengeteg funkció van.
 
-Vannak hiányosságok is persze. A legfájóbb, hogy a beépített Overlay funkció nem működik kifogástalanul. Remélem hamarosan javítják.
+Vannak hiányosságok is. A legfájóbb, hogy a beépített Overlay funkció nem működik kifogástalanul. Remélem hamarosan javítják.
 
 ## Kik használják még?
 
@@ -44,7 +44,7 @@ Egyre többen! Néhány nyilvános Discord szerver World of Tanks témában:
 * **WotInfo** (magyar): [https://discord.gg/qx4BVVb](https://discord.gg/qx4BVVb)
 * **World of Tanks** (angol): [https://discord.gg/world-of-tanks](https://discord.gg/world-of-tanks)
 
-Persze mi is használjuk. Ha nincs hivatalos KETA klán meghívód, akkor is benézhetsz hozzánk! A vendégszobában tudsz nekünk üzenetet is hagyni, ha csatlakozni szeretnél.
+Mi is használjuk. Ha nincs hivatalos KETA klán meghívód, akkor is benézhetsz hozzánk! A vendégszobában tudsz nekünk üzenetet is hagyni, ha csatlakozni szeretnél.
 
 Remélem mihamarabb találkozunk!
 * **[KETA]** (magyar, ezek mi vagyunk ;) ) [https://discord.gg/7MZBtXB](https://discord.gg/7MZBtXB)
