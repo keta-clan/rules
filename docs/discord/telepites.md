@@ -51,7 +51,7 @@ Ha ez nem látszik keressük meg a `DiscordSetup.exe` programot a Letöltések m
 :::
 
 ### Telepítés
-A telepítés annyira egyszerű, hogy ennél egyszerűbb már nem is lehetne. A program az ég világon semmit nem kérdez tőlünk. Pár másodperc alatt telepedik a számítógépre majd elindul. Az imént létrehozott felhasználó nevében indul el a program és ha ezzel egyetértünk más dolgunk nincs mint a **Folytatás** gombra kattintani.
+A telepítés annyira egyszerű, hogy ennél egyszerűbb már nem is lehetne. A program az ég világon semmit nem kérdez tőlünk. Pár másodperc alatt telepedik a számítógépre majd elindul. Az imént létrehozott felhasználó nevében indul el a program. Ha ezzel egyetértünk más dolgunk nincs, mint a **Folytatás** gombra kattintani.
 
 [![regisztráció](/images/discord/start.png)](/images/discord/start.png)
 
@@ -63,7 +63,7 @@ Ezután már használhatjuk is a Discord alkalmazést és a program bal oldalán
 
 A felületen megjelenő sárga felkiáltójelekre kattintva megismerhetjük a program alapvető funkcióit. Megtekintés után ezek a felkiáltójelek eltűnnek a felületről.
 
-A bal oldali vékony sávban találjuk a szerverek a listáját. A szerver ikonjánra kattintva tudunk oda belépni és használni a csatornáit. Kattintsunk a KETA logóra és már meg is érkeztünk. Üdv nálunk!
+A bal oldali vékony sávban találjuk a szerverek a listáját. A szerver ikonjánra kattintva tudunk oda belépni és használni a csatornáit. Kattintsunk a KETA ![](/icons/favicon-16x16.png) logóra  és már meg is érkeztünk. Üdv nálunk!
 
 [![regisztráció](/images/discord/server.png)](/images/discord/server.png)
 
