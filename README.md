@@ -23,6 +23,12 @@ yarn docs:dev
 <YoutubeVideo :videoId="'82kUjM0A-oE'"></YoutubeVideo>
 ```
 
+### Favicon in the text
+
+``` md
+<FavEmoji/>
+```
+
 ## Generate static site:
 
 ```

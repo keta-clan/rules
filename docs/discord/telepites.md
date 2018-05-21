@@ -63,7 +63,7 @@ Ezután már használhatjuk is a Discord alkalmazést. A program bal oldalán l�
 
 A felületen megjelenő sárga felkiáltójelekre kattintva megismerhetjük a program alapvető funkcióit. Megtekintés után ezek a felkiáltójelek eltűnnek a felületről.
 
-A bal oldali vékony sávban találjuk a szerverek a listáját. A szerver ikonjánra kattintva tudunk oda belépni és használni a csatornáit. Kattintsunk a KETA ![](/icons/favicon-16x16.png) logóra  és már meg is érkeztünk. Üdv nálunk!
+A bal oldali vékony sávban találjuk a szerverek a listáját. A szerver ikonjánra kattintva tudunk oda belépni és használni a csatornáit. Kattintsunk a KETA <FavEmoji/> logóra és már meg is érkeztünk. Üdv nálunk!
 
 [![regisztráció](/images/discord/server.png)](/images/discord/server.png)
 
