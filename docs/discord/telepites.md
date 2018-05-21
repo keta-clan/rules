@@ -17,17 +17,17 @@ Kattintsunk tehát a meghívó linkre [https://discord.gg/7MZBtXB](https://disco
 Láthatjuk, hogy **pnxkiller** hívott meg minket a **[KETA]** szerverére.
 :::
 
-Ha már korábban regisztráltál a Discord-ra, akkor kattints a **Már van fiókod?** linkre és a következő lépések rád nem vonatkoznak. De ha még nincs fiókod, akkor kezdődhet a regisztráció! Pofon egyszerű lesz.
+Ha már korábban regisztráltál a Discord-ra, akkor kattints a <code>Már&nbsp;van&nbsp;fiókod?</code> linkre és a következő lépések rád nem vonatkoznak. De ha még nincs fiókod, akkor kezdődhet a regisztráció! Pofon egyszerű lesz.
 
 ## Regisztráció
 
-A regisztráció a felhasználónév megadásával kezdődik. Azt jó tudni, hogy a megadott név a későbbiekben bármikor módosítható. Ráadásul a legtöbb szerveren engedélyezik a becenév módosítását, hogy mindig az aktuális szervnek megfelelő játékos nevünket tudjuk használni. A privát üzenetek esetéban azonban a felhasználónév fog látszódni, nem a szervereken megadott becenév. Válasszunk tehát nevet és kattintsunk a **Folytatás** gombra.
+A regisztráció a felhasználónév megadásával kezdődik. Azt jó tudni, hogy a megadott név a későbbiekben bármikor módosítható. Ráadásul a legtöbb szerveren engedélyezik a becenév módosítását, hogy mindig az aktuális szervnek megfelelő játékos nevünket tudjuk használni. A privát üzenetek esetében azonban a felhasználónév fog látszódni, nem a szervereken megadott becenév. Válasszunk tehát nevet és kattintsunk a `Folytatás` gombra.
 
 ### Email és jelszó
 
 [![regisztráció](/images/discord/registration.png)](/images/discord/registration.png)
 
-A felhasználónév véglegesítéséhez adjuk meg e-mail címunket és új biztonságos, könnyen megjegyezhető jelszavunkat (*Tudom, hogy mindenki a régi, egyszerű jelszavát fogja megadni* :wink:). A **Fiók lefoglalás** gombbal léphetünk is tovább.
+A felhasználónév véglegesítéséhez adjuk meg e-mail címünket és új biztonságos, könnyen megjegyezhető jelszavunkat (*Tudom, hogy mindenki a régi, egyszerű jelszavát fogja megadni* :wink:). A <code>Fiók&nbsp;lefoglalás</code> gombbal léphetünk is tovább.
 
 [![regisztráció](/images/discord/registration_confirm.png)](/images/discord/registration_confirm.png)
 
@@ -40,22 +40,22 @@ Ellenőrizzük a postafiókunkat! A levél nagyon hamar megérkezik. A Discord e
 Következhet a letöltés.
 
 ### Letöltés
-Kattintsunk a **Töltse le az asztali alkalmazást** gombra és a letöltés azonnal meg is kezdődik. Előfordulhat, hogy a letöltés megkezdése előtt megkérdezi a rendszer, hogy hova szeretnénk menteni a telepítő programot. Itt a felajánlott hely elfogadásához kattintsunk a Mentés gombra.
+Kattintsunk a <code>Töltse&nbsp;le&nbsp;az&nbsp;asztali&nbsp;alkalmazást</code> gombra és a letöltés azonnal meg is kezdődik. Előfordulhat, hogy a letöltés megkezdése előtt megkérdezi a rendszer, hogy hova szeretnénk menteni a telepítő programot. Itt a felajánlott hely elfogadásához kattintsunk a Mentés gombra.
 
 A letöltés végeztével indítsuk el a telepítő programot. Egyszerüen kattintsunk kettőt a böngésző alsó részén látszó DiscordSetup.exe feliratú gombra.
 
 [![regisztráció](/images/discord/install.png)](/images/discord/install.png)
 
 ::: danger Tipp
-Ha ez nem látszik keressük meg a `DiscordSetup.exe` programot a Letöltések mappában és indítsuk el.
+Ha ez nem látszik, keressük meg a `DiscordSetup.exe` programot a Letöltések mappában és indítsuk el.
 :::
 
 ### Telepítés
-A telepítés annyira egyszerű, hogy ennél egyszerűbb már nem is lehetne. A program az ég világon semmit nem kérdez tőlünk. Pár másodperc alatt telepedik a számítógépre majd elindul. Az imént létrehozott felhasználó nevében indul el a program. Ha ezzel egyetértünk más dolgunk nincs, mint a **Folytatás** gombra kattintani.
+A telepítés annyira egyszerű, hogy ennél egyszerűbb már nem is lehetne. A program az ég világon semmit nem kérdez tőlünk. Pár másodperc alatt telepedik a számítógépre majd elindul. Az imént létrehozott felhasználó nevében indul el a program. Ha ezzel egyetértünk más dolgunk nincs, mint a `Folytatás` gombra kattintani.
 
 [![regisztráció](/images/discord/start.png)](/images/discord/start.png)
 
-Ezután már használhatjuk is a Discord alkalmazést. A program bal oldalán látszik a szerver, aminek a meghívójára rá kell kattintunk. Az egész csak pár percet vett igénybe.
+Ezután már használhatjuk is a Discord alkalmazást. A program bal oldalán látszik a szerver, aminek a meghívójára rá kell kattintunk. Az egész csak pár percet vett igénybe.
 
 [![regisztráció](/images/discord/started.png)](/images/discord/started.png)
 

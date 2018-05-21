@@ -6,7 +6,7 @@ sidebarDepth: 2
 
 # Használata
 
-Biztosan vannak akiknek nem kell magyarázat a használatához. Viszont olyanok is akadnak akiknek talán nem egyértelmű a program. Itt mindenki találhat hasznos információt. A már avatottak is elcsíphetnek pár trükköt.
+Biztosan vannak akiknek nem kell magyarázat a használatához. Viszont olyanok is akadnak, akiknek talán nem egyértelmű a program. Itt mindenki találhat hasznos információt. A már avatottak is elcsíphetnek pár trükköt.
 
 ## A felület
 
@@ -19,7 +19,7 @@ Biztosan vannak akiknek nem kell magyarázat a használatához. Viszont olyanok 
 * [E] Saját profilod és kapcsolói: némítás | halkítás | beállítások
 
 ## Beállítások
-A felhasználónév meletti fogaskerékre kattintva csalogathatjuk elő a beállításokat. Rengeteg beállítás van, mi most csak a legfontosabbra térünk ki.
+A felhasználónév meletti fogaskerékre kattintva csalogathatjuk elő a beállításokat. Rengeteg beállítás van, mi most csak a legfontosabbakra térünk ki.
 
 ### Hang és videó
 [![halkitas](/images/discord/audio1.png)](/images/discord/audio1.png)
@@ -38,5 +38,5 @@ A halkítás funkció lehalkítja a többi alkalmazást (a tankcsaták zaját) a
 
 ### Értesítések
 
-Amennyiben a hang aktiválására a gombnyomást választottuk érdemes az értesítések menü alatt a PPT aktiválás/PPT deaktiválás beállítások mellett a jelölőt kikapcsolni. Így a felesleges értesítési hangoktól (csipogás) megszabadulunk. Ellenkező esetben a gomb lenyomásakor és felengedésekor is egy rövid értesítő hangot fogunk hallani.
+Amennyiben a hang aktiválására a gombnyomást választottuk, érdemes az értesítések menü alatt a <code>PPT&nbsp;aktiválás</code>/<code>PPT&nbsp;deaktiválás</code> beállítások mellett a jelölőt kikapcsolni. Így a felesleges értesítési hangoktól (csipogás) megszabadulunk. Ellenkező esetben a gomb lenyomásakor és felengedésekor is egy rövid értesítő hangot fogunk hallani.
 [![ertesites](/images/discord/notify.png)](/images/discord/notify.png)

@@ -5,9 +5,9 @@ lang: hu-HU
 
 # Szabályok
 
-Ez itt nem demokrácia kérem. Vannak szabályok. Nem sok és nem is tarthatatlanok, de vannak. A szabályok betartása minden tag számára kötelezőek!
+Ez itt nem demokrácia kérem. Vannak szabályok. Nem sok és nem is tarthatatlanok, de vannak. A szabályok betartása minden tag számára kötelező!
 
-Lássuk a szabályokat.
+Lássuk a szabályokat!
 
 ## Első szabály - Kommunikáció
 
@@ -16,15 +16,15 @@ A klán kommunikációját a [Discord](https://discordapp.com) biztosítja, a pr
 Ez **nem opció**! Ha belépsz játszani, akkor indítsd el a Discordot és **lépj be** valamelyik **hang csatornába**. Csak így tudjuk biztosan ki van jelen és tudunk csapat csatákat szervezni.
 
 ::: danger Discord használat
-A Discord-ról bővebben a [Discord](/discord/) oldalon, a KETA csatornák használatáról pedig [KETA szerver](/discord/keta_szerver.md) oldalon olvashatsz
+A Discord-ról bővebben a [Discord](/discord/) oldalon, a KETA csatornák használatáról pedig [KETA szerver](/discord/keta_szerver.md) oldalon olvashatsz.
 :::
 
 ## Második szabály - Aktivitás
 
-A klánt csak aktív tagok tudják építeni, ezért az aktivítást elvárt. Mivel vannak köztünk kezdők is, ezért nekik a rangjuk alapján eltérő feltételeket kedveskedünk.
+A klánt csak aktív tagok tudják építeni, ezért az aktivítás elvárt. Mivel vannak köztünk kezdők is, ezért nekik a rangjuk alapján eltérő feltételekkel kedveskedünk.
 
 #### Újonc (Recruit) és Tartalékos (Reservist)
-Az **újoncok** legfontosabb feladata a tanulás. Ahhez **rendszeres gyakorlás** kell, ezért:
+Az **újoncok** legfontosabb feladata a tanulás. Ehhez **rendszeres gyakorlás** kell, ezért:
 * Az elmúlt 28 napban legalább 21 csatád volt
 
 #### Közlegény (Private) és a tisztek
@@ -33,17 +33,17 @@ Tisztből csak néhány van, de a közlegények alkotják **a sereg gerincét**.
 
 ::: danger Ipari nyersanyag
 A klánok építő anyaga. Épületeket fejleszthetsz vele, amik klán szintű személyes tartalékokat tudnak létrehozni. Megszerezhető:
-* Klán csatákban (Erőd, Előrenyomulás), akár idegen légiósként egy másik klánnal
-* Szabad és rangsorolt csatákban 10-es szintű tankokkal egyedül és szakaszban
+* Klán csatákban (Erőd, Előrenyomulás), akár idegenlégiósként egy másik klánnal.
+* Szabad és rangsorolt csatákban 10-es szintű tankokkal egyedül és szakaszban.
 :::
 
 ## Harmadik szabály - Modok
 
-Nem toleráljuk az tiltott modokat. A legjobb, ha semmit nem használsz az biztos nem illegális. Ha úgy érzed az XVM nélkül nem tudod megállapítani a sarokban álló Löve-ról, hogy mennyire nem tudja mit csinál, hát telepítsd fel. Amit a [Mod Hub](https://wgmods.net/) oldalon találsz az használható. A többi nem.
+Nem toleráljuk az tiltott modokat. A legjobb, ha semmit nem használsz az biztos nem illegális. Ha úgy érzed az XVM nélkül nem tudod megállapítani a sarokban álló Löwe-ról, hogy mennyire nem tudja mit csinál, hát telepítsd fel. Amit a [Mod Hub](https://wgmods.net/) oldalon találsz az használható. A többi nem.
 
 ## Végszó
 
-A fenti szabályok be nem tartó felhasználót kizárjuk a klánból. Semmi személyes, megtiszteltetés volt együtt harcolni. Sajnos nagy valószínűséggel nem vagy aktív, vagy nem akarsz csapatban játszani. Természetesen, ha visszatérnél újra jelentkezhetsz. Örömmel látunk!
+A fenti szabályokat be nem tartó felhasználót kizárjuk a klánból. Ebben semmi személyes nincs, megtiszteltetés volt együtt harcolni. Sajnos nagy valószínűséggel nem vagy aktív, vagy nem akarsz csapatban játszani. Természetesen, ha visszatérnél újra jelentkezhetsz. Örömmel látunk!
 
 ### Kivételek
 Ezek minden esetben a szabályokat erősítik. Ha elutazol, vagy le kell adnod egy szakdolgozatot/üzleti tervet, jelezd és felmentünk egy időre.

@@ -19,7 +19,7 @@ Weblapjukon egy részletes [táblázatban](https://discordapp.com/features) veth
 
 ## Tényleg tudja amit ígér?
 
-Igen. A Discord egy könnyen használható, ingyenes multiplatform kommunikációs alkalmazás ami rengeteg olyan funkcióval rendelkezik amivel a konkurens programok nem.
+Igen. A Discord egy könnyen használható, ingyenes, multiplatform kommunikációs alkalmazás, ami rengeteg olyan funkcióval rendelkezik amivel a konkurens programok nem.
 
 ## Miért ezt választottátok?
 
@@ -54,3 +54,10 @@ Discord alatt minden a meghívó linkkel kezdődik. Kattints a meghívónkra és
 Vagy töltsd le az alkalmazást a hivatalos weboldalról: [https://discordapp.com/download](https://discordapp.com/download)
 
 Remek, a nehezén már túl is vagy. A regisztráció és a telepítés nagyon egyszerű, amennyiben egy kis segítségre van szükséged csak lapozz tovább!
+
+<style module>
+blockquote {
+  color: #2c3e50;
+  border-left: 0.25rem solid #dfe2e5;
+}
+</style>

@@ -7,9 +7,9 @@ features:
 - title: Word of Tanks
   details: A KETA egy klán a sok közül a Word of Tanks világában. Amitől más, hogy talán a legtalálóbb mottója van mind közül (nekünk biztos).
 - title: Discord
-  details: A klán kommunikációját a Discord biztosítja. A Discord szép, a Discord jó. Talán nem a túl népszerű, de lássuk mit tehetünk hogy gyengítsük a TS egyeduralmát.
+  details: A klán kommunikációját a Discord biztosítja. A Discord szép, a Discord jó. Talán nem túl népszerű, de lássuk mit tehetünk, hogy gyengítsük a TS egyeduralmát.
 - title: Tudástár
-  details: A név kötelez. A kezdőknek pedig útmutatás kell, hogy rövidebb és szórakoztatóbb úton jussanak el a 8-as erőd csaták mezeije. Ha nem velünk játszol akkor is olvashatod.
+  details: A név kötelez. A kezdőknek pedig útmutatás kell, hogy rövidebb és szórakoztatóbb úton jussanak el a 8-as erőd csaták mezeire. Ha nem velünk játszol akkor is olvashatod.
 footer:  'KETA | Alapítva: 2015-ben'
 navbar: true
 ---
@@ -24,7 +24,7 @@ De leginkább az zavar, hogy ők mind a **Te csapatodban** vannak? Csatlakozz ho
 
 # Még kezdő vagy?
 
-De lelkes és szeretnél tanulni? Akkor is közöttünk a helyed, mi próbáljuk segíteni a kezdőket, hogy jobb tankosokká váljanak.
+De lelkes és szeretnél tanulni? Akkor is közöttünk a helyed. Mi próbáljuk segíteni a kezdőket, hogy jobb tankosokká váljanak.
 
 # Csatlakozz!
 
@@ -35,6 +35,6 @@ Az [eligazítás](/keta/) alatt minden információt megtalálsz. Nem csak a csa
 <hr>
 
 ::: danger A World of Tanks a Wargaming.net védjegye.
-Ez az oldal nem World of Tanks hivatalos weboldala
+Ez az oldal nem a World of Tanks hivatalos weboldala
 :::
 
