@@ -37,12 +37,16 @@ A klánok építő anyaga. Épületeket fejleszthetsz vele, amik klán szintű s
 * Szabad és rangsorolt csatákban 10-es szintű tankokkal egyedül és szakaszban
 :::
 
+## Harmadik szabály - Modok
+
+Nem toleráljuk az tiltott modokat. A legjobb, ha semmit nem használsz az biztos nem illegális. Ha úgy érzed az XVM nélkül nem tudod megállapítani a sarokban álló Löve-ról, hogy mennyire nem tudja mit csinál, hát telepítsd fel. Amit a [Mod Hub](https://wgmods.net/) oldalon találsz az használható. A többi nem.
+
 ## Végszó
 
 A fenti szabályok be nem tartó felhasználót kizárjuk a klánból. Semmi személyes, megtiszteltetés volt együtt harcolni. Sajnos nagy valószínűséggel nem vagy aktív, vagy nem akarsz csapatban játszani. Természetesen, ha visszatérnél újra jelentkezhetsz. Örömmel látunk!
 
 ### Kivételek
-Ezek minden esetben a szabályokat erősítik. Ha elutazol, vagy le kell adnod egy szakdolgozatot/üzleti tervet, jelezd és felmentünk a szabályok alól.
+Ezek minden esetben a szabályokat erősítik. Ha elutazol, vagy le kell adnod egy szakdolgozatot/üzleti tervet, jelezd és felmentünk egy időre.
 
 Egyszerű szabályok, tartsátok be őket. Jó pusztítást mindenkinek!
 >Nem győzni jöttünk hanem pusztítani!

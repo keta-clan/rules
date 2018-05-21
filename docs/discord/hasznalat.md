@@ -1,17 +1,42 @@
 ---
 lang: hu-HU
+title: Használata
+sidebarDepth: 2
 ---
 
 # Használata
 
-Elit enim officia ad culpa sit sit culpa nostrud ut quis. Aliqua nisi dolor quis aliqua voluptate minim consectetur. Cupidatat in nisi amet proident. Nulla anim tempor sint exercitation reprehenderit proident voluptate labore tempor. Id commodo laborum laboris ipsum non non mollit fugiat proident.
+Biztosan vannak akiknek nem kell magyarázat a használatához. Viszont olyanok is akadnak akiknek talán nem egyértelmű a program. Itt mindenki találhat hasznos információt. A már avatottak is elcsíphetnek pár trükköt.
+
+## A felület
+
+[![felület](/images/discord/interface.png)](/images/discord/interface.png)
+
+* [A] Szerverek listája
+* [B] Az aktuális szerver csatornái
+* [C] Aktív szöveges csatorna
+* [D] Aktuális szerver felhasználói
+* [E] Saját profilod és kapcsolói: némítás | halkítás | beállítások
 
 ## Beállítások
+A felhasználónév meletti fogaskerékre kattintva csalogathatjuk elő a beállításokat. Rengeteg beállítás van, mi most csak a legfontosabbra térünk ki.
 
-Officia et nostrud ullamco ea et magna anim sit minim enim reprehenderit velit. Magna dolore est esse minim reprehenderit. Minim aliquip qui tempor cupidatat cillum aute exercitation laborum reprehenderit elit laborum nisi aute Lorem. Dolor sint deserunt culpa velit ex occaecat dolore incididunt voluptate. Est enim nostrud duis et adipisicing non sit occaecat eu ea occaecat ea sit velit. Dolore laborum cillum laborum incididunt commodo officia nisi.
+### Hang és videó
+[![halkitas](/images/discord/audio1.png)](/images/discord/audio1.png)
 
-Minim id labore labore voluptate proident deserunt et magna minim magna excepteur officia consequat velit. Velit ipsum quis veniam ex. Dolor eu cupidatat sit labore est veniam. Aliqua minim et eu esse proident deserunt voluptate aliquip enim irure nisi.
+A beviteli és kimeneti hang eszköz beállítása mellet a hangerőt is tudjuk állítani. A beviteli hangerőt érdemes a maximumra állítani.
+1. Beviteli módnál választhatunk a Gomb nyomásra (Push to Talk) és hang aktiválásra (Voice Activity) lehetőségek közül. A Gomb nyomásra esetén szabadon kiválaszthatjuk a gombot a gyorsgomb beállítással.
+2. A hang aktiválás érzékenysége pedig a Beviteli érzékenység automatikus megállapítása kikapcsolása után állítható.
+
 
 ## Tippek
 
-Velit elit dolor veniam id cillum aliqua velit irure ipsum. Est aute dolore fugiat sint ex labore reprehenderit consequat nulla irure magna. Amet esse consequat exercitation proident. Eiusmod laborum nulla occaecat ea ut nisi commodo exercitation anim eiusmod proident. Id dolor ex enim nisi. Et reprehenderit sint excepteur consequat ut occaecat sit.
+### Halkítás
+
+A halkítás funkció lehalkítja a többi alkalmazást (a tankcsaták zaját) amikor valaki beszél, ha az alábbi beállítást használjuk:
+[![halkitas](/images/discord/audio2.png)](/images/discord/audio2.png)
+
+### Értesítések
+
+Amennyiben a hang aktiválására a gombnyomást választottuk érdemes az értesítések menü alatt a PPT aktiválás/PPT deaktiválás beállítások mellett a jelölőt kikapcsolni. Így a felesleges értesítési hangoktól (csipogás) megszabadulunk. Ellenkező esetben a gomb lenyomásakor és felengedésekor is egy rövid értesítő hangot fogunk hallani.
+[![ertesites](/images/discord/notify.png)](/images/discord/notify.png)

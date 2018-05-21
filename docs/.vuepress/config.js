@@ -24,7 +24,7 @@ module.exports = {
           '',
           'telepites',
           'hasznalat',
-          'keta_szerver'
+          //'keta_szerver'
         ],
 
         '/tudastar/': [
@@ -34,16 +34,16 @@ module.exports = {
         ],
   
         // fallback
-        '/': [
-          '',
-          'contact',
-          'about'
-        ]
+        // '/': [
+        //   '',
+        //   'contact',
+        //   'about'
+        // ]
       },
       nav: [
         { text: '[KETA]', link: '/keta/' },
         { text: 'Discord', link: '/discord/' },
-        { text: 'Tudástár', link: '/tudastar/' }
+        //{ text: 'Tudástár', link: '/tudastar/' }
       ],
       markdown: {
         config: md => {
