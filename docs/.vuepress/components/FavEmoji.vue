@@ -8,7 +8,7 @@
     margin: 0 .05em 0 .1em!important;
     min-height: 22px;
     min-width: 22px;
-    vertical-align: -.4em;
+    vertical-align: -.3em;
     width: 1rem;
 }
 </style>
