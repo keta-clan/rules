@@ -5,7 +5,7 @@ actionText: Eligazítás →
 actionLink: /keta/
 features:
 - title: Word of Tanks
-  details: A KETA egy klán a sok közül a Word of Tanks világában. Amitől más, hogy talán a legtalálóbb mottója van mind közül (nekünk biztos).
+  details: A KETA egy klán a Word of Tanks világában. Amitől más, hogy talán a legtalálóbb mottója van mind közül. Nekünk biztosan az.
 - title: Discord
   details: A klán kommunikációját a Discord biztosítja. A Discord szép, a Discord jó. Talán nem túl népszerű, de lássuk mit tehetünk, hogy gyengítsük a TS egyeduralmát.
 - title: Tudástár
