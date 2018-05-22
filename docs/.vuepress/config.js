@@ -24,7 +24,7 @@ module.exports = {
           '',
           'telepites',
           'hasznalat',
-          //'keta_szerver'
+          'keta_szerver'
         ],
 
         '/tudastar/': [
