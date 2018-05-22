@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "vue-responsive-image": "^0.1.1",
     "vuepress": "^0.8.4"
   },
   "scripts": {

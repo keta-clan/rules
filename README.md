@@ -29,6 +29,19 @@ yarn docs:dev
 <FavEmoji/>
 ```
 
+### Responsive images
+
+For responsive image tag generation, you can use [Vue Responsive Image](https://github.com/HCESrl/vue-responsive-image) in all markdown file, wiht the following syntax:
+
+```
+<vue-responsive-image
+:image-url="'https://res.cloudinary.com/aponyhardt/image/upload/w_%width%/<your_filename>'"
+:image-ratio="16/9">
+</vue-responsive-image>
+```
+
+
+
 ## Generate static site:
 
 ```

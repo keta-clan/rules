@@ -11,7 +11,7 @@ A telepítés a legtöbb esetben akkor indul, amikor az ember kap egy linket val
 
 Kattintsunk tehát a meghívó linkre [https://discord.gg/7MZBtXB](https://discord.gg/7MZBtXB) ami egy weboldalra vezet minket. Itt látjuk a meghívó részleteit, ki készítette a meghívót és melyik szerverre szól.
 
-[![meghívás](/images/discord/invite.png)](/images/discord/invite.png)
+<vue-responsive-image :image-url="'https://res.cloudinary.com/aponyhardt/image/upload/w_%width%/invite.png'" :image-ratio="16/9"></vue-responsive-image>
 
 ::: danger Tipp
 Láthatjuk, hogy **pnxkiller** hívott meg minket a **[KETA]** szerverére.
