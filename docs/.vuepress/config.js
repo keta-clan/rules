@@ -43,7 +43,7 @@ module.exports = {
       nav: [
         { text: '[KETA]', link: '/keta/' },
         { text: 'Discord', link: '/discord/' },
-        //{ text: 'Tudástár', link: '/tudastar/' }
+        { text: 'Tudástár', link: '/tudastar/' }
       ],
       markdown: {
         config: md => {
