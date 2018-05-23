@@ -1,6 +1,6 @@
 # keta-clan static site
 
->[VuePress](https://github.com/vuejs/vuepress) project. Generates the static site [https://keta-clan.github.io/](https://keta-clan.github.io/)
+>This project uses [VuePress](https://github.com/vuejs/vuepress) and generates the static site [https://keta-clan.github.io/](https://keta-clan.github.io/)
 
 ## When you writing code:
 
