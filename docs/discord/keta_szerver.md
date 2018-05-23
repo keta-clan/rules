@@ -8,7 +8,7 @@ A [szabályok](/keta/szabalyok.md) között első helyen szerepel a Discord hasz
 
 ## Jogosultságok
 
-Jelenleg négy jogosultsági szint van elkülönítve. Az első és egyben legkissebb szint a Discord alapértelmezett jogköre, a mindenki (everyone). Ezt a jogot kapja minden felhasználó aki az meghívóval csatlakozik a szerverhez. A további rangok csak ezen a szerveren léteznek. A továbbiakban ezekre állandó rangként hivatkozunk.
+Jelenleg négy jogosultsági szint van elkülönítve. Az első és egyben legkissebb szint a Discord alapértelmezett jogköre, a _mindenki_ (_everyone_). Ezt a jogot kapja minden felhasználó aki az meghívóval csatlakozik a szerverhez. A további rangok csak ezen a szerveren léteznek. A továbbiakban ezekre állandó rangként hivatkozunk.
 
 * mindenki
 * légiós
@@ -16,16 +16,16 @@ Jelenleg négy jogosultsági szint van elkülönítve. Az első és egyben legki
 * tiszt
 
 ::: danger Ideiglenes meghívó
-Akik az ideiglenes meghívóval csatlakoznak a szerverre szintén a mindenki jogkört kapják meg a belépéskor. A szerver elhagyásakor azonban automatikusan ki lesznek zárva a szerverről. Állandó rang hozzárendelése esetén nem lesz kizárva.
+Akik az ideiglenes meghívóval csatlakoznak a szerverre szintén a _mindenki_ jogkört kapják meg a belépéskor. A szerver elhagyásakor azonban automatikusan ki lesznek zárva a szerverről. Állandó rang hozzárendelése esetén nem lesz kizárva.
 :::
 
 ### Ki milyen rangot kap
 
-Légiós, aki nem a klán tagja, de rendszeresen játszik velünk, ezért kapott állandó rangot. Így nem kell minden esetben a meghívót a használnia.
+_Légiós_, aki nem a klán tagja, de rendszeresen játszik velünk, ezért kapott állandó rangot. Így nem kell minden esetben a meghívót használnia.
 
-Keta rang jár minden klán tagnak.
+_Keta_ rang jár minden klán tagnak.
 
-A tiszt rangot a klánban is tiszti rangot betöltő felhasználók kapnak.
+A _tiszt_ rangot a klánban is tiszti rangot betöltő felhasználók kapnak.
 
 ### Ki-mit-tehet
 
