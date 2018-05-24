@@ -8,7 +8,7 @@ A [szabályok](/keta/szabalyok.md) között első helyen szerepel a Discord hasz
 
 ## Jogosultságok
 
-Jelenleg négy jogosultsági szint van elkülönítve. Az első és egyben legkissebb szint a Discord alapértelmezett jogköre, a _mindenki_ (_everyone_). Ezt a jogot kapja minden felhasználó aki az meghívóval csatlakozik a szerverhez. A további rangok csak ezen a szerveren léteznek. A továbbiakban ezekre állandó rangként hivatkozunk.
+Jelenleg négy jogosultsági szint van elkülönítve. Az első és egyben **legkissebb** szint a Discord alapértelmezett jogköre, a **mindenki** (*everyone*). Ezt a jogot kapja minden felhasználó aki meghívóval csatlakozik a szerverhez. A **többi rang**ot mi hoztuk létre és **csak ezen a szerveren** léteznek. A továbbiakban ezekre **állandó rang**ként hivatkozunk.
 
 * mindenki
 * légiós
@@ -16,22 +16,25 @@ Jelenleg négy jogosultsági szint van elkülönítve. Az első és egyben legki
 * tiszt
 
 ::: danger Ideiglenes meghívó
-Akik az ideiglenes meghívóval csatlakoznak a szerverre szintén a _mindenki_ jogkört kapják meg a belépéskor. A szerver elhagyásakor azonban automatikusan ki lesznek zárva a szerverről. Állandó rang hozzárendelése esetén nem lesz kizárva.
+Akik az ideiglenes meghívóval csatlakoznak a szerverre szintén a **mindenki** jogkört kapják meg a belépéskor. A szerver elhagyásakor azonban automatikusan ki lesznek zárva a szerverről. Állandó rang hozzárendelése esetén nem lesz kizárva.
 :::
 
-### Ki milyen rangot kap
+### Melyik rangot ki kapja
 
-_Légiós_, aki nem a klán tagja, de rendszeresen játszik velünk, ezért kapott állandó rangot. Így nem kell minden esetben a meghívót használnia.
+Az állandó rangokba az alábbiak alapján soroljuk a játékosokat:
 
-_Keta_ rang jár minden klán tagnak.
+* **Légiós**, nem a klán tagja, de rendszeresen játszik velünk
 
-A _tiszt_ rangot a klánban is tiszti rangot betöltő felhasználók kapnak.
+* **Keta**, minden klán tag
+
+* **Tiszt**, aki a klánban is tiszti rangot tölt be
 
 ### Ki-mit-tehet
 
-Nagy eltérések nincsenek a rangok között. Amit minden állandó ranggal rendelkező megtehet:
-* Felhasználók áthelyezése a hangcsatornák között
-* Alacsonyabb rang kiosztása
+A magasabb rang több jogkört jelent, óriási eltérések azonban nincsenek. Mindenki használhatja a számára elérhető szöveges és hang csatornákat. Lássuk a kivételeket.
+
+A **mindenki** rang nem teszi lehetővé a [Voice activation](/discord/hasznalat.html#hang-es-video) használatát és nincs joga a felhasználók hang csatornák közötti áthelyezésére.
+
 
 Keta:
 * Minden hang csatornát használhat
@@ -41,5 +44,8 @@ Tiszt:
 * Tagok kizárása
 * TTS üzenet küldése
 
-## Hangcsatornák
+## Csatornák láthatósága
+A következő csatornák vannak
+
+
 

@@ -19,8 +19,7 @@ Ha igen, ez az oldal tetszeni fog. De talán még akkor is találsz hasznos dolg
 
 # Egyedül játszol?
 
-De eleged van már a szabad csatákból? Téged is **zavar a minimap**-ot még a garázsból is **ping-elő harctéri géniusz**? A Löwe, aki már rég ki is kapcsolta a téképet, mert zavarta a nézelődésben. A minden csatában megjelenő két szinttel magasabb közepes, akinek a harctéri taktika az arany lőszer használatban merül ki? A sarokban álló könnyű harckocsik és a felderítő lövegek?
-De leginkább az zavar, hogy ők mind a **Te csapatodban** vannak? Csatlakozz hozzánk, hogy garantáltan meglegyen a létszám az erőd csatára!
+De eleged van már a szabad csatákból? Csatlakozz hozzánk, hogy garantáltan meglegyen a létszám az erőd csatára!
 
 # Még kezdő vagy?
 

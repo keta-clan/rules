@@ -49,4 +49,5 @@ A fenti szabályokat be nem tartó felhasználót kizárjuk a klánból. Ebben s
 Ezek minden esetben a szabályokat erősítik. Ha elutazol, vagy le kell adnod egy szakdolgozatot/üzleti tervet, jelezd és felmentünk egy időre.
 
 Egyszerű szabályok, tartsátok be őket. Jó pusztítást mindenkinek!
->Nem győzni jöttünk hanem pusztítani!
+
+>Nem győzni jöttünk, hanem pusztítani!
