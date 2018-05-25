@@ -14,7 +14,7 @@ Igen, a névválasztás nem véletlen. Tudjuk, hogy nem mi vagyunk a legjobb já
 
 ## Toborzó szöveg
 
-Már **nem vagy kezdő**, de eleged van a szabad csatákból? Téged is **zavar a minimap**-ot még a garázsból is **ping-elő harctéri géniusz**? A Löwe, aki már rég ki is kapcsolta a téképet, mert zavarta a nézelődésben. A két szinttel magasabb közepes, akinek a harctéri taktika az arany lőszer, de így sem jut sokra? A sarokban álló könnyű harckocsik és a felderítő lövegek?
+Már **nem vagy kezdő**, de eleged van a szabad csatákból? Téged is **zavar a minimap**-ot még a garázsból is **ping-elő harctéri géniusz**? A heavy, aki már rég ki is kapcsolta a téképet, mert zavarta a nézelődésben? A két szinttel magasabb közepes, akinek a harctéri taktika az arany lőszer, de így sem jut sokra? A sarokban álló könnyű harckocsik és a felderítő lövegek?
 De leginkább az zavar, hogy ők mind a **Te csapatodban** vannak? Lépj be inkább közénk!
 
 **Kezdő vagy** és nem is érted miről beszélek, **de szeretnél tanulni** és rendszeresen játszol? Akkor is **köztünk a helyed!**
@@ -25,7 +25,8 @@ Egy olyan stabil közösség felépítse, hogy az **erőd** és **csapat csaták
 
 ## Kiket várunk?
 
-Talán téged is, ha megfelesz az alábbi feltételeknek:
+Téged is, ha megfelesz az alábbi feltételeknek:
+
 * Van egy csata képes tankod
 * Bírod a mottót
 * Rendszeresen játszol
