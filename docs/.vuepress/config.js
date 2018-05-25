@@ -30,7 +30,8 @@ module.exports = {
         '/tudastar/': [
           '',
           'jatekmechanika',
-          'premium_tankok'
+          'premium_tankok',
+          'terkepek'
         ],
   
         // fallback
