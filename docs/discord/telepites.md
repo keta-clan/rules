@@ -1,6 +1,7 @@
 ---
 lang: hu-HU
 title: Telepítése
+url: 'https://res.cloudinary.com/dem3uioaq/image/upload/w_%width%/'
 ---
 
 # A Discord telepítése
@@ -11,7 +12,7 @@ A telepítés a legtöbb esetben akkor indul, amikor az ember kap egy linket val
 
 Kattintsunk tehát a meghívó linkre [https://discord.gg/7MZBtXB](https://discord.gg/7MZBtXB) ami egy weboldalra vezet minket. Itt látjuk a meghívó részleteit, ki készítette a meghívót és melyik szerverre szól.
 
-<vue-responsive-image :image-url="'https://res.cloudinary.com/aponyhardt/image/upload/w_%width%/invite.png'" :image-ratio="16/9"></vue-responsive-image>
+<vue-responsive-image :image-url=" this.$page.frontmatter.url + 'invite.png'" :image-ratio="16/9" :alt="'képernyőkép discord meghívó'"></vue-responsive-image>
 
 ::: danger Tipp
 Láthatjuk, hogy **pnxkiller** hívott meg minket a **[KETA]** szerverére.
@@ -25,15 +26,15 @@ A regisztráció a felhasználónév megadásával kezdődik. Azt jó tudni, hog
 
 ### Email és jelszó
 
-[![regisztráció](/images/discord/registration.png)](/images/discord/registration.png)
+<vue-responsive-image :image-url=" this.$page.frontmatter.url + 'registration.png'" :image-ratio="16/9" :alt="'képernyőkép discord regisztráció'"></vue-responsive-image>
 
 A felhasználónév véglegesítéséhez adjuk meg e-mail címünket és új biztonságos, könnyen megjegyezhető jelszavunkat (*Tudom, hogy mindenki a régi, egyszerű jelszavát fogja megadni* :wink:). A <code>Fiók&nbsp;lefoglalás</code> gombbal léphetünk is tovább.
 
-[![regisztráció](/images/discord/registration_confirm.png)](/images/discord/registration_confirm.png)
+<vue-responsive-image :image-url=" this.$page.frontmatter.url + 'registration_confirm.png'" :image-ratio="16/9" :alt="'képernyőkép discord regisztráció megerősítése'"></vue-responsive-image>
 
 Küzdjük el a megjelenő *Nem vagyok robot* ellenőrzéseket és a fiókunk létre is jött. Már csak egy biztonsági ellenőrzésen kell átesni, a megadott e-mail cím megerősítésén.
 
-[![regisztráció](/images/discord/download.png)](/images/discord/download.png)
+<vue-responsive-image :image-url=" this.$page.frontmatter.url + 'download.png'" :image-ratio="16/9" :alt="'képernyőkép discord letöltés'"></vue-responsive-image>
 
 Ellenőrizzük a postafiókunkat! A levél nagyon hamar megérkezik. A Discord egy szépen formázott levelet küldött nekünk. Ebben megköszöni a regisztrációt és megküldi a megerősitő linket. Kattintsunk a linkre és a regisztráció véget is ért!
 
@@ -44,7 +45,7 @@ Kattintsunk a <code>Töltse&nbsp;le&nbsp;az&nbsp;asztali&nbsp;alkalmazást</code
 
 A letöltés végeztével indítsuk el a telepítő programot. Egyszerüen kattintsunk kettőt a böngésző alsó részén látszó DiscordSetup.exe feliratú gombra.
 
-[![regisztráció](/images/discord/install.png)](/images/discord/install.png)
+<vue-responsive-image :image-url=" this.$page.frontmatter.url + 'install.png'" :image-ratio="16/9" :alt="'képernyőkép discord telepítés'"></vue-responsive-image>
 
 ::: danger Tipp
 Ha ez nem látszik, keressük meg a `DiscordSetup.exe` programot a Letöltések mappában és indítsuk el.
@@ -53,11 +54,11 @@ Ha ez nem látszik, keressük meg a `DiscordSetup.exe` programot a Letöltések 
 ### Telepítés
 A telepítés annyira egyszerű, hogy ennél egyszerűbb már nem is lehetne. A program az ég világon semmit nem kérdez tőlünk. Pár másodperc alatt telepedik a számítógépre majd elindul. Az imént létrehozott felhasználó nevében indul el a program. Ha ezzel egyetértünk más dolgunk nincs, mint a `Folytatás` gombra kattintani.
 
-[![regisztráció](/images/discord/start.png)](/images/discord/start.png)
+<vue-responsive-image :image-url=" this.$page.frontmatter.url + 'start.png'" :image-ratio="16/9" :alt="'képernyőkép discord használatra kész'"></vue-responsive-image>
 
 Ezután már használhatjuk is a Discord alkalmazást. A program bal oldalán látszik a szerver, aminek a meghívójára rá kell kattintunk. Az egész csak pár percet vett igénybe.
 
-[![regisztráció](/images/discord/started.png)](/images/discord/started.png)
+<vue-responsive-image :image-url=" this.$page.frontmatter.url + 'started.png'" :image-ratio="16/9" :alt="'képernyőkép discord használatra kész'"></vue-responsive-image>
 
 ## Hogyan tovább?
 
@@ -65,7 +66,7 @@ A felületen megjelenő sárga felkiáltójelekre kattintva megismerhetjük a pr
 
 A bal oldali vékony sávban találjuk a szerverek a listáját. A szerver ikonjánra kattintva tudunk oda belépni és használni a csatornáit. Kattintsunk a KETA <FavEmoji/> logóra és már meg is érkeztünk. Üdv nálunk!
 
-[![regisztráció](/images/discord/server.png)](/images/discord/server.png)
+<vue-responsive-image :image-url=" this.$page.frontmatter.url + 'server.png'" :image-ratio="16/9" :alt="'képernyőkép discord üdv a keta szerverén'"></vue-responsive-image>
 
 ::: danger Tipp
 Látszik, hogy nem erősítettem meg az e-mail címem, ezt majd pótolni kell.
