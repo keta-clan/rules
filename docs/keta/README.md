@@ -12,13 +12,6 @@ A [hogymondom.hu](https://hogymondom.hu/showslang.php?slang=keta) szerint **a sz
 
 Igen, a névválasztás nem véletlen. Tudjuk, hogy nem mi vagyunk a legjobb játékosok és hogy van még mit tanulnunk. Aki azt gondolja neki már nincs hova fejlődni, fussa át a [Dunning-Kruger-hatás](https://hu.wikipedia.org/wiki/Dunning%E2%80%93Kruger-hat%C3%A1s) rövid leírását. Aztán gondolja át újra. ;)
 
-## Toborzó szöveg
-
-Már **nem vagy kezdő**, de eleged van a szabad csatákból? Téged is **zavar a minimap**-ot még a garázsból is **ping-elő harctéri géniusz**? A heavy, aki már rég ki is kapcsolta a téképet, mert zavarta a nézelődésben? A két szinttel magasabb közepes, akinek a harctéri taktika az arany lőszer, de így sem jut sokra? A sarokban álló könnyű harckocsik és a felderítő lövegek?
-De leginkább az zavar, hogy ők mind a **Te csapatodban** vannak? Lépj be inkább közénk!
-
-**Kezdő vagy** és nem is érted miről beszélek, **de szeretnél tanulni** és rendszeresen játszol? Akkor is **köztünk a helyed!**
-
 ## A klán célja
 
 Egy olyan stabil közösség felépítse, hogy az **erőd** és **csapat csaták** mindennaposak lehessenek. Te is részese lehetsz ennek, ha szeretnél.
@@ -44,10 +37,10 @@ Jelentkezni tudsz náluk a játékon belül:
 
 De a legjobb, ha felkeresed a Discord szerverünket:
 
-* [https://discord.gg/7MZBtXB](https://discord.gg/7MZBtXB)
+* [https://discord.gg/PTwe3bD](https://discord.gg/PTwe3bD)
 
 ::: danger Fontos!
-Ez a meghívó ideiglenes tagságot ad a szerverre. Küldj üzenetet valamelyik toborzónak, vagy hagyj üzenetet a #vendegszoba-ban és keresni fogunk!
+A csatlakozás után keresd a toborzókat privát üzenetben, vagy írj a vendégszobába. Ezzel tudod jelezni, hogy megérkeztél hozzánk.
 :::
 
 ## Nem győzni jöttünk, hanem pusztítani!

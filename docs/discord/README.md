@@ -13,7 +13,7 @@ A legrövidebb választ a Discrod weboldalán találjuk:
 Magyarra így fordították:
 >A Discord az egy minden-az-egyben beszélgetős és üzenetváltási szolgáltatás gamereknek ingyenesen, biztonságosan ráadásul számítógépre és telefonra is.
 
-Fejlesztése 2015-ben kezdődött azzal a céllal, hogy egy alacsony erőforrás igényű, biztonságos és ingyenesen használható alkalmazást hozzanak létre, ami kiküszöböli a TeamSpeak és Skype hiányosságait. A kitűzött célt el is érte, ez az alkalmazás nem egy sokadik TeamSpeak klón, több annál. A Discord egy játékos központú kommunikációs alkalmazás.
+Fejlesztése 2015-ben kezdődött azzal a céllal, hogy egy alacsony erőforrás igényű, biztonságos és ingyenesen használható alkalmazást hozzanak létre, ami kiküszöböli a TeamSpeak és Skype hiányosságait. Ez az alkalmazás nem egy sokadik TeamSpeak klón, több annál. A Discord egy játékos központú, kommunikációs alkalmazás.
 
 Weblapjukon egy részletes [táblázatban](https://discordapp.com/features) vethetjük össze a többi népszerű platformmal. 
 
@@ -26,9 +26,9 @@ Igen. A Discord egy könnyen használható, ingyenes, multiplatform kommunikáci
 Azért mert a Discord tényleg jó. Egy nagyon rövid lista a kedvencekről:
 
 * Saját szerver vagy akár szerverek, nem csak egy szoba egy nyilvános TS szerveren
-* Igazi chat, akár fájlokat is tölthetsz fel, üzenet előzmények, nem maradsz le semmiről
+* Igazi chat, üzenet előzményekkel, nem maradsz le semmiről. Akár fájlokat is tölthetsz fel
 * Könnyen kezelhető és adminisztrálható
-* Tényleg ingyenes és tényleg működik, stabilan évek óta
+* Tényleg ingyenes és tényleg működik, stabilan
 
 Mi ezek miatt szeretjük igazán, persze még rengeteg funkció van.
 
@@ -41,15 +41,15 @@ Egyre többen! Néhány nyilvános Discord szerver World of Tanks témában:
 * **WotInfo** (magyar): [https://discord.gg/qx4BVVb](https://discord.gg/qx4BVVb)
 * **World of Tanks** (angol): [https://discord.gg/world-of-tanks](https://discord.gg/world-of-tanks)
 
-Mi is használjuk. Ha nincs hivatalos KETA klán meghívód, akkor is benézhetsz hozzánk! A vendégszobában tudsz nekünk üzenetet is hagyni, ha csatlakozni szeretnél.
+Mi is használjuk. Ha nincs KETA klán meghívód, akkor is benézhetsz hozzánk! A vendégszobában tudsz nekünk üzenetet is hagyni, ha csatlakozni szeretnél.
 
 Remélem mihamarabb találkozunk!
-* **[KETA]** (magyar, ezek mi vagyunk ;) ) [https://discord.gg/7MZBtXB](https://discord.gg/7MZBtXB)
+* **[KETA]** (magyar, ezek mi vagyunk ;) ) [https://discord.gg/PTwe3bD](https://discord.gg/PTwe3bD)
 
 
 ## Hol kezdjem, ha használni akarom?
 
-Discord alatt minden a meghívó linkkel kezdődik. Kattints a meghívónkra és vágj bele: [https://discord.gg/7MZBtXB](https://discord.gg/7MZBtXB)
+Discord alatt minden a meghívó linkkel kezdődik. Kattints a meghívónkra és vágj bele: [https://discord.gg/PTwe3bD](https://discord.gg/PTwe3bD)
 
 Vagy töltsd le az alkalmazást a hivatalos weboldalról: [https://discordapp.com/download](https://discordapp.com/download)
 

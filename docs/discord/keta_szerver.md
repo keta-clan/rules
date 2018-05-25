@@ -4,29 +4,25 @@ lang: hu-HU
 
 # [KETA] szerver
 
-A [szabályok](/keta/szabalyok.md) között első helyen szerepel a Discord használat, ez minden tag számára kötelező. Emiatt a kialakított jogok és csatornák ismertetése kiemelten fontos. Az alábbi rövid leírás után, mindenki ki fogja ismerni magát a szerveren.
+A [szabályok](/keta/szabalyok.md) között első helyen szerepel a Discord használat, ez minden tag számára kötelező. Emiatt a kialakított jogok és csatornák ismertetése kiemelten fontos. Az alábbi rövid leírás után, ki fogod ismerni magad a szerveren.
 
 ## Jogosultságok
 
-Jelenleg négy jogosultsági szint van elkülönítve. Az első és egyben **legkissebb** szint a Discord alapértelmezett jogköre, a **mindenki** (*everyone*). Ezt a jogot kapja minden felhasználó aki meghívóval csatlakozik a szerverhez. A **többi rang**ot mi hoztuk létre és **csak ezen a szerveren** léteznek. A továbbiakban ezekre **állandó rang**ként hivatkozunk.
+Jelenleg öt jogosultsági szint van elkülönítve. Az első és egyben **legkissebb** szint a Discord alapértelmezett jogköre, a **mindenki** (*everyone*). Ezt a jogot kapja minden felhasználó aki csatlakozik a szerverhez. A **többi rang**ot mi hoztuk létre és **csak ezen a szerveren** léteznek. A továbbiakban ezekre **állandó rang**ként hivatkozunk.
 
 * mindenki
+* vendég
 * légiós
 * keta
 * tiszt
-
-::: danger Ideiglenes meghívó
-Akik az ideiglenes meghívóval csatlakoznak a szerverre szintén a **mindenki** jogkört kapják meg a belépéskor. A szerver elhagyásakor azonban automatikusan ki lesznek zárva a szerverről. Állandó rang hozzárendelése esetén nem lesz kizárva.
-:::
 
 ### Melyik rangot ki kapja
 
 Az állandó rangokba az alábbiak alapján soroljuk a játékosokat:
 
+* **Vendég**, most csatlakozott a szerverre és játszana velünk
 * **Légiós**, nem a klán tagja, de rendszeresen játszik velünk
-
 * **Keta**, minden klán tag
-
 * **Tiszt**, aki a klánban is tiszti rangot tölt be
 
 ### Ki-mit-tehet
@@ -45,6 +41,7 @@ Tiszt:
 * TTS üzenet küldése
 
 ## Csatornák láthatósága
+
 A következő csatornák vannak
 
 

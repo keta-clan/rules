@@ -7,23 +7,25 @@ features:
 - title: Word of Tanks
   details: A KETA egy klán a Word of Tanks világában. Amitől más, hogy talán a legtalálóbb mottója van mind közül. Nekünk biztosan az.
 - title: Discord
-  details: A klán kommunikációját a Discord biztosítja. A Discord szép, a Discord jó. Talán nem túl népszerű, de lássuk mit tehetünk, hogy gyengítsük a TS egyeduralmát.
+  details: A klán kommunikációját a Discord biztosítja. Talán nem túl népszerű, de a Discord szép, a Discord jó. Mi ezt ajánljuk.
 - title: Tudástár
-  details: A név kötelez. A kezdőknek pedig útmutatás kell, hogy rövidebb és szórakoztatóbb úton jussanak el a 8-as erőd csaták mezeire. Ha nem velünk játszol akkor is olvashatod.
+  details: A név kötelez. A kezdőknek pedig útmutatás kell, hogy rövidebb és szórakoztatóbb úton jussanak el a 8-as kláncsaták mezeire.
 footer:  'KETA | Alapítva: 2015-ben'
 navbar: true
 ---
 
 # Tankozol?
-Ha igen, ez az oldal tetszeni fog. De talán még akkor is találsz hasznos dolgkat nálunk, ha nem is tankozol.
 
-# Egyedül játszol?
+Eleged van a szabad csatákból? Téged is zavar a **minimap**-ot még a garázsból is **ping-elő harctéri géniusz**? A heavy, aki már rég **ki is kapcsolta** a téképet, mert zavarta a nézelődésben? A két szinttel magasabb közepes, akinek a harctéri **taktika az arany lőszer**? A sarokban álló könnyű harckocsik és a **felderítő lövegek**?
+De leginkább az zavar, hogy ők mind a **Te csapatodban** vannak?
 
-De eleged van már a szabad csatákból? Csatlakozz hozzánk, hogy garantáltan meglegyen a létszám az erőd csatára!
+Lépj be közénk, hogy biztosan meglegyen a létszám a kláncsatára!
 
-# Még kezdő vagy?
+### Egyedül játszol?
+Gyere és tedd próbára magad csapatban is!
 
-De lelkes és szeretnél tanulni? Akkor is közöttünk a helyed. Mi próbáljuk segíteni a kezdőket, hogy jobb tankosokká váljanak.
+### Még kezdő vagy?
+Nem is érted honnan lőttek ki, **de szeretnél tanulni** és rendszeresen játszol? Akkor is **köztünk a helyed!**
 
 # Csatlakozz!
 

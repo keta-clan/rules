@@ -5,7 +5,7 @@ lang: hu-HU
 
 # Szabályok
 
-Ez itt nem demokrácia kérem. Vannak szabályok. Nem sok és nem is tarthatatlanok, de vannak. A szabályok betartása minden tag számára kötelező!
+Ez itt nem demokrácia kérem. Vannak szabályok. Nem sok és nem is tarthatatlanok, de vannak. Betartásuk minden tag számára kötelező.
 
 Lássuk a szabályokat!
 
@@ -39,7 +39,7 @@ A klánok építő anyaga. Épületeket fejleszthetsz vele, amik klán szintű s
 
 ## Harmadik szabály - Modok
 
-Nem toleráljuk az tiltott modokat. A legjobb, ha semmit nem használsz az biztos nem illegális. Ha úgy érzed az XVM nélkül nem tudod megállapítani a sarokban álló Löwe-ról, hogy mennyire nem tudja mit csinál, hát telepítsd fel. Amit a [Mod Hub](https://wgmods.net/) oldalon találsz az használható. A többi nem.
+Nem toleráljuk az tiltott modokat. A legjobb, ha semmit nem használsz az biztos nem illegális. Amit a [Mod Hub](https://wgmods.net/) oldalon találsz az használható. A többi nem.
 
 ## Végszó
 
@@ -48,6 +48,6 @@ A fenti szabályokat be nem tartó felhasználót kizárjuk a klánból. Ebben s
 ### Kivételek
 Ezek minden esetben a szabályokat erősítik. Ha elutazol, vagy le kell adnod egy szakdolgozatot/üzleti tervet, jelezd és felmentünk egy időre.
 
-Egyszerű szabályok, tartsátok be őket. Jó pusztítást mindenkinek!
+**Egyszerű szabályok. Tartsd be őket.**
 
 >Nem győzni jöttünk, hanem pusztítani!
