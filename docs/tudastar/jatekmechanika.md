@@ -5,7 +5,11 @@ lang: hu-HU
 
 # Játékmechanika
 
-Elit enim officia ad culpa sit sit culpa nostrud ut quis. Aliqua nisi dolor quis aliqua voluptate minim consectetur. Cupidatat in nisi amet proident. Nulla anim tempor sint exercitation reprehenderit proident voluptate labore tempor. Id commodo laborum laboris ipsum non non mollit fugiat proident.
+Ez egy nagyon fontos rész. Olyan kérdésekre kapsz itt választ, mint:
+* hogy vettek észre?
+* miért nem sebeztem meg?
+
+Tehát ha tisztában leszel a játék működésével, tudod majd, hogy maradj észrevétlen. Ráadásul tovább is játékban fogsz maradni, ha tudod hogy használd a tankod páncélját.
 
 ## A járművek jellemzői
 

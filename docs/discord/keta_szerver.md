@@ -4,55 +4,45 @@ lang: hu-HU
 
 # [KETA] szerver
 
-A [szabályok](/keta/szabalyok.md) között első helyen szerepel a Discord használat, ez minden tag számára kötelező. Emiatt a kialakított jogok és csatornák ismertetése kiemelten fontos. Az alábbi rövid leírás után, ki fogod ismerni magad a szerveren.
+A [szabályok](/keta/szabalyok.md) között első helyen szerepel a Discord használat, ez minden tag számára kötelező. Emiatt a kialakított rangok és jogok ismertetése kiemelten fontos.
 
-## Jogosultságok
+## Rangok
 
 Jelenleg öt jogosultsági szint van elkülönítve. Az első és egyben **legkissebb** szint a Discord alapértelmezett jogköre, a **mindenki** (*everyone*). Ezt a jogot kapja minden felhasználó aki csatlakozik a szerverhez. A **többi rang**ot mi hoztuk létre és **csak ezen a szerveren** léteznek. A továbbiakban ezekre **állandó rang**ként hivatkozunk.
 
-* mindenki
-* vendég
-* légiós
-* keta
-* tiszt
-
-### Melyik rangot ki kapja
-
-Az állandó rangokba az alábbiak alapján soroljuk a játékosokat:
-
-* **Vendég**, most csatlakozott a szerverre és játszana velünk
-* **Légiós**, nem a klán tagja, de rendszeresen játszik velünk
-* **Keta**, minden klán tag
-* **Tiszt**, aki a klánban is tiszti rangot tölt be
-
-### Ki-mit-tehet
+* **mindenki**, most csatlakozott, még nem kapott állandó rangot
+* **vendég**, beléphet a *CSAPATJÁTÉK* hangcsatornákba
+* **légiós**, nem a klán tagja, de rendszeresen játszik velünk
+* **keta**, a klán tagja
+* **tiszt**, tiszti rangot betöltő klántag
 
 A szerver jogkörei úgy vannak felépítve, hogy biztosítsák a KETA klán zavartalan játékát. Ez úgy lehetséges, hogy a klán saját felhasználóinak jogköre magasabb, mint az imént csatlakozott idegené.
 
-Csatlakozás után az alapértelmezett *mindenki* rangot birtokolja a fehasználó. Ezzel a ranggal, csak a nyilvános szöveg csatornákat láthatja. Többek között az #eligazítás csatornát, ahol tájékozódhat a csatorna szabályairól. Hang csatonához csatlakozni nem tud!
+Csatlakozás után az alapértelmezett *mindenki* rangot birtokolja a fehasználó. Ezzel a ranggal, csak a nyilvános szöveg csatornákat láthatja. A *#vendégszoba* mellett az *#eligazítás* csatornát, ahol tájékozódhat a csatorna szabályairól. Hang csatonához csatlakozni nem tud!
 
-Ahhoz hogy egy friss belépő hang csatornához is tudjon csatlakozni legalább *vendég* rangbot kell kapnia.
+Ahhoz hogy egy friss belépő hang csatornához is tudjon csatlakozni legalább *vendég* rangot kell kapnia.
 
-### Ki oszthat rangokat?
+## Ki oszthat rangokat?
 Rangot minden klántagnak van joga kiosztani, azzal a megkötéssel, hogy csak nála alacsonyabb rangot adhat.
 
+### A rangok jogai
 
+A **vendég** rang nem teszi lehetővé a [Voice activation](/discord/hasznalat.html#hang-es-video) használatát és nincs joga a felhasználók hang csatornák közötti áthelyezésére.
 
+**Légiós** rangban már használhatod az *Alakuló teret* is és működik a *Voice activation*.
 
-A **mindenki** rang nem teszi lehetővé a [Voice activation](/discord/hasznalat.html#hang-es-video) használatát és nincs joga a felhasználók hang csatornák közötti áthelyezésére.
+A klán tagjai a **keta** rang birtokában:
+* minden csatornát használhatnak
+* mozgathatnak tagokat csatornák között
+* rangot oszthatnak
+* kirúghatnak tagokat a szerverről
+* megtekinthetik a szerver *Vizsgálati naplóját*
 
+A **tiszt** kiadhatja a **keta** rangot és kitilthat tagokat a szerverről.
 
-Keta:
-* Minden hang csatornát használhat
-* #keta szöveges csatorna használata
+### Kirúgás és kitiltás
 
-Tiszt:
-* Tagok kizárása
-* TTS üzenet küldése
+A kirúgott tagok, a meghívó újbóli felhasználásával vissza tudnak lépni a szerverre. Azonban a kitiltás végleges. A kitiltott tag többet nem léphet be a szerverre, még új meghívóval sem.
 
-## Csatornák láthatósága
-
-A következő csatornák vannak
-
-
+A tiltások és kirúgások megtekeinthetők a szerver *Vizsgálati napló*jában.
 
