@@ -25,7 +25,7 @@ Igen. A Discord egy könnyen használható, ingyenes, multiplatform kommunikáci
 
 Azért mert a Discord tényleg jó. Egy nagyon rövid lista a kedvencekről:
 
-* Saját szerver vagy akár szerverek, nem csak egy szoba egy nyilvános TS szerveren
+* Saját szerver vagy akár szerverek, nem csak egy szoba egy nyilvános szerveren
 * Igazi chat, üzenet előzményekkel, nem maradsz le semmiről. Akár fájlokat is tölthetsz fel
 * Könnyen kezelhető és adminisztrálható
 * Tényleg ingyenes és tényleg működik, stabilan

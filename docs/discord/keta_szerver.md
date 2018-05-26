@@ -27,7 +27,17 @@ Az állandó rangokba az alábbiak alapján soroljuk a játékosokat:
 
 ### Ki-mit-tehet
 
-A magasabb rang több jogkört jelent, óriási eltérések azonban nincsenek. Mindenki használhatja a számára elérhető szöveges és hang csatornákat. Lássuk a kivételeket.
+A szerver jogkörei úgy vannak felépítve, hogy biztosítsák a KETA klán zavartalan játékát. Ez úgy lehetséges, hogy a klán saját felhasználóinak jogköre magasabb, mint az imént csatlakozott idegené.
+
+Csatlakozás után az alapértelmezett *mindenki* rangot birtokolja a fehasználó. Ezzel a ranggal, csak a nyilvános szöveg csatornákat láthatja. Többek között az #eligazítás csatornát, ahol tájékozódhat a csatorna szabályairól. Hang csatonához csatlakozni nem tud!
+
+Ahhoz hogy egy friss belépő hang csatornához is tudjon csatlakozni legalább *vendég* rangbot kell kapnia.
+
+### Ki oszthat rangokat?
+Rangot minden klántagnak van joga kiosztani, azzal a megkötéssel, hogy csak nála alacsonyabb rangot adhat.
+
+
+
 
 A **mindenki** rang nem teszi lehetővé a [Voice activation](/discord/hasznalat.html#hang-es-video) használatát és nincs joga a felhasználók hang csatornák közötti áthelyezésére.
 

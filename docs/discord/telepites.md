@@ -32,7 +32,7 @@ A felhasználónév véglegesítéséhez adjuk meg e-mail címünket és új biz
 
 <vue-responsive-image :image-url=" this.$page.frontmatter.url + 'registration_confirm.png'" :image-ratio="16/9" :alt="'képernyőkép discord regisztráció megerősítése'"></vue-responsive-image>
 
-Küzdjük el a megjelenő *Nem vagyok robot* ellenőrzéseket és a fiókunk létre is jött. Már csak egy biztonsági ellenőrzésen kell átesni, a megadott e-mail cím megerősítésén.
+Küzdjük le a megjelenő <code>Nem&nbsp;vagyok&nbsp;robot</code> ellenőrzéseket és a fiókunk létre is jött. Már csak egy biztonsági ellenőrzésen kell átesni, a megadott e-mail cím megerősítésén.
 
 <vue-responsive-image :image-url=" this.$page.frontmatter.url + 'download.png'" :image-ratio="16/9" :alt="'képernyőkép discord letöltés'"></vue-responsive-image>
 
@@ -43,7 +43,7 @@ Következhet a letöltés.
 ### Letöltés
 Kattintsunk a <code>Töltse&nbsp;le&nbsp;az&nbsp;asztali&nbsp;alkalmazást</code> gombra és a letöltés azonnal meg is kezdődik. Előfordulhat, hogy a letöltés megkezdése előtt megkérdezi a rendszer, hogy hova szeretnénk menteni a telepítő programot. Itt a felajánlott hely elfogadásához kattintsunk a Mentés gombra.
 
-A letöltés végeztével indítsuk el a telepítő programot. Egyszerüen kattintsunk kettőt a böngésző alsó részén látszó DiscordSetup.exe feliratú gombra.
+A letöltés végeztével indítsuk el a telepítő programot. Egyszerüen kattintsunk kettőt a böngésző alsó részén látszó <code>DiscordSetup.exe</code> feliratú gombra.
 
 <vue-responsive-image :image-url=" this.$page.frontmatter.url + 'install.png'" :image-ratio="16/9" :alt="'képernyőkép discord telepítés'"></vue-responsive-image>
 
@@ -52,11 +52,11 @@ Ha ez nem látszik, keressük meg a `DiscordSetup.exe` programot a Letöltések 
 :::
 
 ### Telepítés
-A telepítés annyira egyszerű, hogy ennél egyszerűbb már nem is lehetne. A program az ég világon semmit nem kérdez tőlünk. Pár másodperc alatt telepedik a számítógépre majd elindul. Az imént létrehozott felhasználó nevében indul el a program. Ha ezzel egyetértünk más dolgunk nincs, mint a `Folytatás` gombra kattintani.
+A telepítés annyira egyszerű, hogy ennél egyszerűbb már nem is lehetne. A program az ég világon semmit nem kérdez tőlünk. Pár másodperc alatt telepedik a számítógépre majd elindul az imént létrehozott felhasználó nevében. Ha ezzel egyetértünk más dolgunk nincs, mint a `Folytatás` gombra kattintani.
 
 <vue-responsive-image :image-url=" this.$page.frontmatter.url + 'start.png'" :image-ratio="16/9" :alt="'képernyőkép discord használatra kész'"></vue-responsive-image>
 
-Ezután már használhatjuk is a Discord alkalmazást. A program bal oldalán látszik a szerver, aminek a meghívójára rá kell kattintunk. Az egész csak pár percet vett igénybe.
+Ezután már használhatjuk is a Discord alkalmazást. A program bal oldalán látszik a szerver, aminek a meghívóját használtuk. Az egész csak pár percet vett igénybe.
 
 <vue-responsive-image :image-url=" this.$page.frontmatter.url + 'started.png'" :image-ratio="16/9" :alt="'képernyőkép discord használatra kész'"></vue-responsive-image>
 
