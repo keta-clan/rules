@@ -42,7 +42,7 @@ A klánok építő anyaga. Épületeket fejleszthetsz vele, amik klán szintű s
 
 ## Harmadik szabály - Modok
 
-Nem toleráljuk az tiltott modokat. A legjobb, ha semmit nem használsz, az biztosan nem illegális. Amit a [Mod Hub](https://wgmods.net/) oldalon találsz az használható. A többi nem.
+Nem toleráljuk a tiltott modokat. A legjobb, ha semmit nem használsz, az biztosan nem illegális. Amit a [Mod Hub](https://wgmods.net/) oldalon találsz az használható. A többi nem.
 
 ## Végszó
 
