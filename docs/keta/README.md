@@ -45,9 +45,8 @@ A csatlakozás után keresd a toborzókat privát üzenetben, vagy írj a vendé
 
 ## Nem győzni jöttünk, hanem pusztítani!
 
-A mottót fiatal korunk meghatározó játék élményéből kölcsönöztük. Illik a játékhoz. Sokszor kell vele azonosulni, ha már a nyertes csaták nem jönnek össze.
+A mottót, a klán alapítóinak fiatal korát meghatározó játékélményéből kölcsönöztük. Illik a játékhoz. Sokszor kell vele azonosulni, ha már a nyertes csaták nem jönnek össze.
 
-A játék pedig nem más, mint a leghíresebb magyar szerepjáték a **M.A.G.U.S.**
-Köszönjük alkotóinak azt a rengeteg önfeledt órát amit [Ynev](https://hu.wikipedia.org/wiki/M.A.G.U.S.) világán tölthettünk. Talán nem bánják, ha a [Kyr Pusztítók](https://www.kalandozok.hu/magus/atlantisz/jatszhatokasztok/harcos/harcos/kyrpusztito(taishu)atlantisz.pdf) jelmondata itt is tovább él. 
+Ez a játék pedig nem más mint a [M.A.G.U.S.](https://hu.wikipedia.org/wiki/M.A.G.U.S.), ami az egyik leghíresebb magyar szerepjáték. Alkotói talán nem bánják, ha a [Kyr Pusztítók](https://www.kalandozok.hu/magus/atlantisz/jatszhatokasztok/harcos/harcos/kyrpusztito(taishu)atlantisz.pdf) jelmondata itt is tovább él. Ez úton is szeretnénk megköszönni azt a rengeteg önfeledt órát amit [Ynev](https://hu.wikipedia.org/wiki/Ynev_orsz%C3%A1gainak_list%C3%A1ja) világán tölthettünk.
 
 >Kyria örök, míg Pusztítók csatáznak!

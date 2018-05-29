@@ -5,6 +5,9 @@ lang: hu-HU
 
 # Szabályok
 
+>Nulla regula sine exceptione.
+>Nincsen szabály kivétel nélkül.
+
 Ez itt nem demokrácia kérem. Vannak szabályok. Nem sok és nem is tarthatatlanok, de vannak. Betartásuk minden tag számára kötelező.
 
 Lássuk a szabályokat!
@@ -46,8 +49,6 @@ Nem toleráljuk az tiltott modokat. A legjobb, ha semmit nem használsz, az bizt
 A fenti szabályokat be nem tartó felhasználót kizárjuk a klánból. Ebben semmi személyes nincs, megtiszteltetés volt együtt harcolni. Sajnos nagy valószínűséggel nem vagy aktív, vagy nem akarsz csapatban játszani. Természetesen, ha visszatérnél újra jelentkezhetsz. Örömmel látunk!
 
 ### Kivételek
-Ezek minden esetben a szabályokat erősítik. Ha elutazol, vagy le kell adnod egy szakdolgozatot/üzleti tervet, jelezd és felmentünk egy időre.
+Ezek minden esetben a szabályokat erősítik. Ha elutazol, vagy le kell adnod egy szakdolgozatot/üzleti tervet, jelezd és felmentünk a [#Második szabály](#masodik-szabaly-aktivitas) alól arra az időre.
 
-**Egyszerű szabályok. Tartsd be őket.**
-
->Nem győzni jöttünk, hanem pusztítani!
+**Egyszerű szabályok. Tartsd be őket!**

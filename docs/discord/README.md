@@ -32,7 +32,7 @@ Azért mert a Discord tényleg jó. Egy nagyon rövid lista a kedvencekről:
 
 Mi ezek miatt szeretjük igazán, persze még rengeteg funkció van.
 
-Vannak hiányosságok is. A legfájóbb, hogy a beépített Overlay funkció World of Tanks alatt nem működik kifogástalanul. A fejlesztés folyamatos, remélem mihamarabb ez is sorra kerül.
+Vannak hiányosságok is. A legfájóbb, hogy a beépített Overlay funkció World of Tanks alatt nem működik kifogástalanul. A fejlesztés folyamatos, remélemjük mihamarabb ez is sorra kerül.
 
 ## Kik használják még?
 

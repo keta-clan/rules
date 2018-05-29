@@ -15,7 +15,7 @@ Kattintsunk tehát a meghívó linkre [https://discord.gg/7MZBtXB](https://disco
 <vue-responsive-image :image-url=" this.$page.frontmatter.url + 'invite.png'" :image-ratio="16/9" :alt="'képernyőkép discord meghívó'"></vue-responsive-image>
 
 ::: danger Tipp
-Láthatjuk, hogy **pnxkiller** hívott meg minket a **[KETA]** szerverére.
+Láthatjuk, hogy **pnxkiller** küldte a meghívót a **[KETA]** szerverére.
 :::
 
 Ha már korábban regisztráltál a Discord-ra, akkor kattints a <code>Már&nbsp;van&nbsp;fiókod?</code> linkre és a következő lépések rád nem vonatkoznak. De ha még nincs fiókod, akkor kezdődhet a regisztráció! Pofon egyszerű lesz.
@@ -60,6 +60,10 @@ Ezután már használhatjuk is a Discord alkalmazást. A program bal oldalán l�
 
 <vue-responsive-image :image-url=" this.$page.frontmatter.url + 'started.png'" :image-ratio="16/9" :alt="'képernyőkép discord használatra kész'"></vue-responsive-image>
 
+::: danger Tipp
+Látszik, hogy nem erősítettem meg az e-mail címem, ezt majd pótolni kell.
+:::
+
 ## Hogyan tovább?
 
 A felületen megjelenő sárga felkiáltójelekre kattintva megismerhetjük a program alapvető funkcióit. Megtekintés után ezek a felkiáltójelek eltűnnek a felületről.
@@ -67,10 +71,6 @@ A felületen megjelenő sárga felkiáltójelekre kattintva megismerhetjük a pr
 A bal oldali vékony sávban találjuk a szerverek a listáját. A szerver ikonjánra kattintva tudunk oda belépni és használni a csatornáit. Kattintsunk a KETA <FavEmoji/> logóra és már meg is érkeztünk. Üdv nálunk!
 
 <vue-responsive-image :image-url=" this.$page.frontmatter.url + 'server.png'" :image-ratio="16/9" :alt="'képernyőkép discord üdv a keta szerverén'"></vue-responsive-image>
-
-::: danger Tipp
-Látszik, hogy nem erősítettem meg az e-mail címem, ezt majd pótolni kell.
-:::
 
 A felületen látszódnak a szerver hang és szöveg csatornái. A kiválasztott szöveg csatorna chat felülete és a csatorna felhasználóinak listája.
 

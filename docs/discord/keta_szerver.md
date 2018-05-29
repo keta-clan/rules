@@ -18,16 +18,16 @@ Jelenleg öt jogosultsági szint van elkülönítve. Az első és egyben **legki
 
 A szerver jogkörei úgy vannak felépítve, hogy biztosítsák a KETA klán zavartalan játékát. Ez úgy lehetséges, hogy a klán saját felhasználóinak jogköre magasabb, mint az imént csatlakozott idegené.
 
-Csatlakozás után az alapértelmezett *mindenki* rangot birtokolja a fehasználó. Ezzel a ranggal, csak a nyilvános szöveg csatornákat láthatja. A *#vendégszoba* mellett az *#eligazítás* csatornát, ahol tájékozódhat a csatorna szabályairól. Hang csatonához csatlakozni nem tud!
+**Csatlakozás után** az alapértelmezett *mindenki* rangot birtokolja a fehasználó. Ezzel a ranggal, **csak a nyilvános szöveg csatornákat láthatja**. A *#vendégszoba* mellett az *#eligazítás* csatornát, ahol tájékozódhat a csatorna szabályairól. **Hang csatonához csatlakozni nem tud!**
 
-Ahhoz hogy egy friss belépő hang csatornához is tudjon csatlakozni legalább *vendég* rangot kell kapnia.
+Ahhoz hogy egy friss belépő **hang csatornához** is tudjon csatlakozni **legalább *vendég* rang**ot kell kapnia.
 
 ## Ki oszthat rangokat?
 Rangot minden klántagnak van joga kiosztani, azzal a megkötéssel, hogy csak nála alacsonyabb rangot adhat.
 
 ### A rangok jogai
 
-A **vendég** rang nem teszi lehetővé a [Voice activation](/discord/hasznalat.html#hang-es-video) használatát és nincs joga a felhasználók hang csatornák közötti áthelyezésére.
+A **vendég** csatlakozhat a *CSAPATJÁTÉK* hangcsatornáihoz, de a [Voice activation](/discord/hasznalat.html#hang-es-video) használata nem megengedett.
 
 **Légiós** rangban már használhatod az *Alakuló teret* is és működik a *Voice activation*.
 
@@ -42,7 +42,7 @@ A **tiszt** kiadhatja a **keta** rangot és kitilthat tagokat a szerverről.
 
 ### Kirúgás és kitiltás
 
-A kirúgott tagok, a meghívó újbóli felhasználásával vissza tudnak lépni a szerverre. Azonban a kitiltás végleges. A kitiltott tag többet nem léphet be a szerverre, még új meghívóval sem.
+A **kirúgott** tag, a meghívó újbóli felhasználásával **vissza tud lépni a szerverre**. Azonban a kitiltás végleges. A **kitiltott** tag **többet nem léphet be** a szerverre, még új meghívóval sem.
 
 A tiltások és kirúgások megtekeinthetők a szerver *Vizsgálati napló*jában.
 

@@ -13,7 +13,7 @@ module.exports = {
       ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
       ['meta', { name: 'og:site_name', content: 'Nem győzni jöttünk, hanem pusztítani!'}],
       ['meta', { name: 'og:title', content: 'KETA - Kezdő Tank Alakulat'}],
-      ['meta', { name: 'og:description', content: 'A World of Tank talán legjobb mottója mögött egy remek kis klán áll. Itt minden információt megtalálsz, akár klán tag vagy, akár nem. Ha nem vagy tag, de unod már a játékot egyedül, hát csatlakozz hozzánk!'}],
+      ['meta', { name: 'og:description', content: 'A World of Tanks talán legjobb mottója mögött egy remek kis klán áll. Itt minden információt megtalálsz, akár klán tag vagy, akár nem. Ha nem vagy tag, de unod már a játékot egyedül, hát csatlakozz hozzánk!'}],
       ['meta', { name: 'og:image', content: '/logo.png'}]
     ],
     //serviceWorker: true,
