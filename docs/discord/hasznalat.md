@@ -54,6 +54,6 @@ Amennyiben a hang aktiválására a gombnyomást választottuk, érdemes az ért
 
 ### In-game hangkommunikáció
 
-A játék is kínál hangkommunikációt, amit a legjobb ha kikapcsol az ember. Ezt a kliens beállító felületén lehet megtenni, a Beállítások->Hangerő->Hangkommunikácó menüben. Kikapcsolni a `Hang engedélyezése`(1) jelölővel lehet. Amennyiben használni szeretnénk érdemes ellenőrizni melyik gombra van beállítva (2). Nem szerencsés, ha a Discord és a játék is ugyan arra a billentyűre aktiválja a hangot. Ez erős gerjedéshez hasonló hangot tud prodikálni.
+A játék is kínál hangkommunikációt, amit a legjobb ha kikapcsol az ember. Ezt a kliens beállító felületén lehet megtenni, a Beállítások->Hangerő->Hangkommunikácó menüben. Kikapcsolni a `Hang engedélyezése`(1) jelölővel lehet. Amennyiben használni szeretnénk érdemes ellenőrizni melyik gombra van beállítva (2). Nem szerencsés, ha a Discord és a játék is ugyanarra a billentyűre aktiválja a hangot. Ez erős gerjedéshez hasonló hangot tud prodikálni.
 
 <vue-responsive-image :image-url=" this.$page.frontmatter.url + 'wot-settings-audio'" :image-ratio="16/9" :alt="'képernyőkép WoT kliens beállítások'"></vue-responsive-image>

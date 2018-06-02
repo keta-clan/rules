@@ -22,7 +22,7 @@ Ha már korábban regisztráltál a Discord-ra, akkor kattints a <code>Már&nbsp
 
 ## Regisztráció
 
-A regisztráció a felhasználónév megadásával kezdődik. Azt jó tudni, hogy a megadott név a későbbiekben bármikor módosítható. Ráadásul a legtöbb szerveren engedélyezik a becenév módosítását, hogy mindig az aktuális szervnek megfelelő játékos nevünket tudjuk használni. A privát üzenetek esetében azonban a felhasználónév fog látszódni, nem a szervereken megadott becenév. Válasszunk tehát nevet és kattintsunk a `Folytatás` gombra.
+A regisztráció a felhasználónév megadásával kezdődik. Azt jó tudni, hogy a megadott név a későbbiekben bármikor módosítható. Ráadásul a legtöbb szerveren engedélyezik a becenév módosítását, hogy mindig az aktuális szervernek megfelelő játékos nevünket tudjuk használni. A privát üzenetek esetében azonban a felhasználónév fog látszódni, nem a szervereken megadott becenév. Válasszunk tehát nevet és kattintsunk a `Folytatás` gombra.
 
 ### Email és jelszó
 
