@@ -35,9 +35,9 @@ Tisztből csak néhány van, de a közlegények alkotják **a sereg gerincét**.
 * Az elmúlt 28 napban legalább 60 ipari nyersanyagot szereztél
 
 ::: danger Ipari nyersanyag
-A klánok építő anyaga. Épületeket fejleszthetsz vele, amik klán szintű személyes tartalékokat tudnak létrehozni. Megszerezhető:
+A klánok építőanyaga. Épületeket fejleszthetsz vele, amik klán szintű tartalékokat tudnak létrehozni. Megszerezhető:
 * Klán csatákban (Erőd, Előrenyomulás), akár idegenlégiósként egy másik klánnal.
-* Szabad és rangsorolt csatákban 10-es szintű tankokkal egyedül és szakaszban.
+* Szabad és rangsorolt csatákban 10-es szintű tankokkal egyedül és szakaszban. A jutalomtábla [itt elérhető](https://worldoftanks.eu/en/content/strongholds_guide/industrial_resource/).
 :::
 
 ## Harmadik szabály - Modok
