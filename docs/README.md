@@ -16,7 +16,7 @@ navbar: true
 
 # Tankozol?
 
-Eleged van a szabad csatákból? Téged is zavar a **minimap**-ot még a garázsból is **ping-elő harctéri géniusz**? A heavy, aki már rég **ki is kapcsolta** a téképet, mert zavarta a nézelődésben? A két szinttel magasabb közepes, akinek a harctéri **taktika az arany lőszer**? A sarokban álló könnyű harckocsik és a **felderítő lövegek**?
+Eleged van a szabad csatákból? Téged is zavar a **minimap**-ot még a garázsból is **ping-elő harctéri géniusz**? A heavy, aki már rég **ki is kapcsolta** a térképet, mert zavarta a nézelődésben? A két szinttel magasabb közepes, akinek a harctéri **taktika az arany lőszer**? A sarokban álló könnyű harckocsik és a **felderítő lövegek**?
 De leginkább az zavar, hogy ők mind a **Te csapatodban** vannak?
 
 Lépj be közénk, hogy biztosan meglegyen a létszám a kláncsatára!
